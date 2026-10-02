@@ -10,6 +10,8 @@ Identificación de patrones y/o tendencias
 
 Analisis de sensibilidad 
 
+Visualización de los datos
+
 Conclusiones
 
 
