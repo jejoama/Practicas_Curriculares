@@ -8,6 +8,8 @@ Proceso de limpieza, seguido de un tratamiendo de los datos
 
 Identificación de patrones y/o tendencias
 
+Analisis de sensibilidad 
+
 Conclusiones
 
 
