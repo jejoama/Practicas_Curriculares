@@ -1,0 +1,32 @@
+{
+  "firma": "6dc90164d1637a2d0126a459063bb63c6c2fcc77d100b43fabc77a6c3b12f82e",
+  "modelo": "gemini-3.5-flash-lite",
+  "version_prompt": "v2",
+  "resultados": [
+    {
+      "tema": 1,
+      "titulo": "Debate sobre el sistema electoral y partidos",
+      "descripcion": "Los mensajes discuten las normas sobre el derecho al voto, la gestión del gobierno actual y la desconfianza general hacia las diferentes formaciones políticas en España."
+    },
+    {
+      "tema": 2,
+      "titulo": "Opiniones y críticas sobre Pedro Sánchez",
+      "descripcion": "Las opiniones expresadas se centran en la figura del presidente del gobierno, reflejando un fuerte descontento político y expectativas variadas sobre su futuro en el poder."
+    },
+    {
+      "tema": 3,
+      "titulo": "Controversia en torno a la huelga general",
+      "descripcion": "Los comentarios debaten sobre la legitimidad, los motivos y la idoneidad de convocar una huelga general, cuestionando a quién va dirigida realmente esta movilización."
+    },
+    {
+      "tema": 4,
+      "titulo": "Preocupación por el futuro institucional del país",
+      "descripcion": "Los usuarios expresan su malestar por la situación democrática actual de España, mencionando la pérdida de valores y la gestión de la inmigración y la nacionalidad."
+    },
+    {
+      "tema": 5,
+      "titulo": "Agradecimientos y valoraciones del contenido audiovisual",
+      "descripcion": "Se recogen expresiones breves de agradecimiento dirigidas al creador del canal, acompañadas de comentarios irónicos sobre la situación política y los derechos de nacionalidad."
+    }
+  ]
+}

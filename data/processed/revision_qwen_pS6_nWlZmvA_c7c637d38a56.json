@@ -1,0 +1,2472 @@
+{
+  "UgzPKd3vCdNUzTQEQcx4AaABAg": {
+    "ID_COMENTARIO": "UgzPKd3vCdNUzTQEQcx4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "burla",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de comparaciones exageradas y los emojis de risa indican una intención cómica o burlona en lugar de una crítica seria.",
+      "IRONIA": "La afirmación es irónica porque sugiere que la supuesta 'suciedad' política es comparable o inferior a la de otras formaciones, usando el humor para minimizar el problema o atacar.",
+      "FUNCION_EMOJIS": "Los emojis de risa (😂) refuerzan el tono de burla y desprecio hacia la afirmación o situación mencionada.",
+      "RELACION_PADRE": "No hay comentario padre, por lo que no aplica."
+    }
+  },
+  "UgzWXXqszHa9i-Ymxo54AaABAg": {
+    "ID_COMENTARIO": "UgzWXXqszHa9i-Ymxo54AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa opiniones y argumentos políticos de manera directa y estructurada, sin indicios de humor, sarcasmo o enfado desbordado, aunque es crítico.",
+      "IRONIA": "No hay elementos de ironía; las afirmaciones son literales y argumentativas.",
+      "FUNCION_EMOJIS": "No se utilizan emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre, por lo que no aplica."
+    }
+  },
+  "Ugzm_2dChgK_tVB1pj54AaABAg": {
+    "ID_COMENTARIO": "Ugzm_2dChgK_tVB1pj54AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación política directa y concisa sin carga emocional excesiva ni intención humorística.",
+      "IRONIA": "El texto es literal y expresa una postura clara sin dobles sentidos.",
+      "FUNCION_EMOJIS": "No se utilizan emojis.",
+      "RELACION_PADRE": "No hay comentario padre, por lo que no aplica."
+    }
+  },
+  "UgztrnN2MpEF8YdgAFh4AaABAg": {
+    "ID_COMENTARIO": "UgztrnN2MpEF8YdgAFh4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es irónico porque sugiere una 'ayuda' que en realidad es una medida discriminatoria o negativa, contrastando el significado literal con la intención crítica.",
+      "IRONIA": "La frase utiliza la ironía para criticar una supuesta política o actitud, presentando algo negativo como positivo de forma sarcástica.",
+      "FUNCION_EMOJIS": "No se utilizan emojis.",
+      "RELACION_PADRE": "No hay comentario padre, por lo que no aplica."
+    }
+  },
+  "UgwYwsSj-oqhV8itwBV4AaABAg": {
+    "ID_COMENTARIO": "UgwYwsSj-oqhV8itwBV4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una expresión de sentimiento o valoración personal directa. Aunque breve, no es humorística ni irónica, sino una reacción seria de inquietud.",
+      "IRONIA": "No hay indicios de ironía; es una declaración directa de la emoción del usuario.",
+      "FUNCION_EMOJIS": "No se utilizan emojis.",
+      "RELACION_PADRE": "No hay comentario padre, por lo que no aplica."
+    }
+  },
+  "UgzXQ2fkl4mRjckJaPl4AaABAg": {
+    "ID_COMENTARIO": "UgzXQ2fkl4mRjckJaPl4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa una opinión política crítica y acusatoria con un lenguaje formal y directo, sin marcas de humor o enfado descontrolado, aunque es muy negativo.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito; es una afirmación directa de la postura del autor.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwGtBk3t3p9hIBaXdR4AaABAg": {
+    "ID_COMENTARIO": "UgwGtBk3t3p9hIBaXdR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta retórica o crítica directa sobre la legitimidad de una opinión externa. No hay indicios de humor o ironía, es una postura seria de desacuerdo.",
+      "IRONIA": "La pregunta cuestiona la autoridad moral/política del sujeto, pero no utiliza ironía lingüística, sino una crítica directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyD3j_qIGJjlpG5Zl54AaABAg": {
+    "ID_COMENTARIO": "UgyD3j_qIGJjlpG5Zl54AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "burla",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de palabras como 'miserable', la hipérbole 'vendería a su madre' y el emoji de náuseas indican hostilidad, indignación y repulsa intensa.",
+      "IRONIA": "Es una expresión directa de odio y desprecio, no hay un juego de palabras o contraste irónico.",
+      "FUNCION_EMOJIS": "El emoji 🤮 (náuseas) se utiliza para expresar asco y desprecio hacia la persona mencionada, funcionando como una burla o ataque visceral.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyVIuOQQAA-mkaoaOx4AaABAg": {
+    "ID_COMENTARIO": "UgyVIuOQQAA-mkaoaOx4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una frase de agradecimiento estándar, neutra y cortés.",
+      "IRONIA": "No hay indicios de ironía; es una expresión literal de gratitud.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugzj0QnYLDcDxQ081Q54AaABAg": {
+    "ID_COMENTARIO": "Ugzj0QnYLDcDxQ081Q54AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "humor",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso del emoji de risa (😂) y la frase 'es mundial' (eufemismo para decir que es tonto o ridículo) indican una intención burlona y humorística.",
+      "IRONIA": "No es ironía pura, sino una burla directa y humorística mediante el uso de emojis y lenguaje coloquial despectivo.",
+      "FUNCION_EMOJIS": "El emoji 😂 refuerza el tono de burla y humor hacia la persona criticada.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzxKSGQJ0n64nDRnHN4AaABAg": {
+    "ID_COMENTARIO": "UgzxKSGQJ0n64nDRnHN4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario presenta una crítica política y social estructurada con argumentos, sin gritos ni insultos directos, manteniendo un tono de análisis crítico.",
+      "IRONIA": "Utiliza frases como 'país de gañanes' y 'cuando nos ordenan que saltemos, preguntamos a qué altura' para expresar irónicamente la falta de autonomía e inteligencia crítica de la población.",
+      "FUNCION_EMOJIS": "No contiene emojis en el texto proporcionado.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugz8z1eQaYfcFosAnR94AaABAg": {
+    "ID_COMENTARIO": "Ugz8z1eQaYfcFosAnR94AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión clara y directa sobre impuestos y derechos de voto. Aunque es una crítica, no muestra hostilidad extrema ni sarcasmo marcado, sino una postura argumentativa.",
+      "IRONIA": "No hay elementos de contraste entre el literal y el implícito que sugieran ironía. Es una afirmación directa de causa-efecto.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugz9u8a2fvtfD4fP2Ih4AaABAg": {
+    "ID_COMENTARIO": "Ugz9u8a2fvtfD4fP2Ih4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta retórica corta y provocativa, típica de debates en redes, con un tono desafiante pero no necesariamente enfadado o serio.",
+      "IRONIA": "La pregunta 'De que tenéis tanto miedo los fachas?' es irónica porque sugiere que el miedo es infundado o que la etiqueta 'fachas' es el problema real, invirtiendo la lógica habitual.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugxl1hB9U24idEXrde14AaABAg": {
+    "ID_COMENTARIO": "Ugxl1hB9U24idEXrde14AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "burla",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Utiliza un insulto directo ('sinverguenzas') y una expresión de desprecio intenso hacia los sindicatos, lo que indica enfado o hostilidad.",
+      "IRONIA": "No hay ironía; es una crítica directa y explícita.",
+      "FUNCION_EMOJIS": "Los emojis (😈👿😭) se utilizan para denotar maldad, demonización y desprecio hacia el objeto del comentario, funcionando como burla o ataque visual.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzcXauYepB-oAaDIXB4AaABAg": {
+    "ID_COMENTARIO": "UgzcXauYepB-oAaDIXB4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es satírico y burlón, utilizando la exageración y la ironía para ridiculizar al presidente mencionado.",
+      "IRONIA": "Frases como 'lucha cómo un jabato' y 'Es que además de guapo, es bueno' son claramente irónicas, ya que contrastan la realidad percibida por el autor con una descripción positiva falsa para burlarse.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugx7tUPGuMw0J8vRqkJ4AaABAg": {
+    "ID_COMENTARIO": "Ugx7tUPGuMw0J8vRqkJ4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es irónico al usar la palabra 'eloquente' para describir a alguien que tiene un chupete en la boca, lo cual es una contradicción visual y literal. Es una burla disfrazada de elogio.",
+      "IRONIA": "La frase 'Eres muy elocuente cuando lo mordisqueas' es claramente irónica, ya que tener un chupete no permite la elocuencia verbal.",
+      "FUNCION_EMOJIS": "No hay emojis en el comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxyO_Bjnt3wzvDByeh4AaABAg": {
+    "ID_COMENTARIO": "UgxyO_Bjnt3wzvDByeh4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de insultos directos ('inútil') y la exigencia imperativa ('Muestra las mentiras') denotan hostilidad y enfado hacia las figuras políticas mencionadas.",
+      "IRONIA": "No hay elementos irónicos; las afirmaciones son directas y literales en su intención crítica.",
+      "FUNCION_EMOJIS": "No hay emojis en el comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugwxa1es2ZQJZBgJzvx4AaABAg": {
+    "ID_COMENTARIO": "Ugwxa1es2ZQJZBgJzvx4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa indignación y frustración ('se me han acabado todos los calificativos', 'amenaza con ser peor'), lo que indica un tono enfadado o de fuerte descontento.",
+      "IRONIA": "La comparación con 'Aquí no hay quien viva' es una metáfora crítica, pero no una ironía en el sentido estricto de decir lo contrario de lo que se piensa; es una crítica directa a la situación caótica.",
+      "FUNCION_EMOJIS": "El emoji 🤬 (cara enfadada) refuerza el tono de enfado y frustración expresado en el texto, por lo que su función es apoyar la emoción de enfado.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxE6deEbQke1sCpxEZ4AaABAg": {
+    "ID_COMENTARIO": "UgxE6deEbQke1sCpxEZ4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es irónico y sarcástico. La frase 'si España es capaz de superarse en muestra de estupidez' sugiere que la 'superación' será en el negativo (más estupidez), usando un lenguaje que parece positivo ('superarse') para denotar lo contrario.",
+      "IRONIA": "La ironía reside en la expectativa de que el resultado de las elecciones será una mayor 'estupidez', presentada como una capacidad de 'superación'.",
+      "FUNCION_EMOJIS": "No hay emojis en el comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxN6zIOB0MTThGnszB4AaABAg": {
+    "ID_COMENTARIO": "UgxN6zIOB0MTThGnszB4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario presenta una opinión política y crítica sobre la estrategia del PSOE y la calidad de sus argumentos ('mentiras y pronesas'). Aunque es negativo, se expresa como una argumentación política seria sin elementos de humor o enfado explosivo.",
+      "IRONIA": "No hay ironía; la crítica es directa sobre la supuesta falta de sustancia y la estrategia de la campaña.",
+      "FUNCION_EMOJIS": "No hay emojis en el comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwEBiBp0Us2U7XY9nR4AaABAg": {
+    "ID_COMENTARIO": "UgwEBiBp0Us2U7XY9nR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario presenta un argumento factual sobre una medida legal sin carga emocional ni intención humorística.",
+      "IRONIA": "No hay indicios de ironía; la afirmación es directa y literal.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwD6jtpRpCVgmePr6h4AaABAg": {
+    "ID_COMENTARIO": "UgwD6jtpRpCVgmePr6h4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una preocupación política y una pregunta retórica sobre consecuencias electorales, con un tono crítico pero no enfadado ni humorístico.",
+      "IRONIA": "La pregunta busca una reflexión política, no un contraste irónico entre lo dicho y lo sentido.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgweTjOrfvmV9hGopBp4AaABAg": {
+    "ID_COMENTARIO": "UgweTjOrfvmV9hGopBp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una opinión política directa y crítica hacia la derecha, expresada con firmeza pero sin hostilidad extrema ni humor.",
+      "IRONIA": "La afirmación es literal: atribuye la victoria electoral a la impopularidad de la derecha.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugym2zdoe-aNwplAlLl4AaABAg": {
+    "ID_COMENTARIO": "Ugym2zdoe-aNwplAlLl4AaABAg",
+    "TONO": "ambiguo",
+    "IRONIA": "indeterminada",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El texto es una mezcla caótica de crítica social, referencias a personajes específicos y frases inconexas. La intención general es difícil de categorizar entre serio o humorístico debido a la falta de coherencia narrativa.",
+      "IRONIA": "Frases como 'Tranquila .... todo está bajo control' pueden ser irónicas, pero el contexto disperso hace indeterminada la intención global.",
+      "FUNCION_EMOJIS": "El emoji 😮 parece ilustrativo o de sorpresa ante la situación descrita, no claramente de burla o apoyo.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwLQRDXWbRDaEpnuBR4AaABAg": {
+    "ID_COMENTARIO": "UgwLQRDXWbRDaEpnuBR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una preocupación por la salud de una figura pública y sugiere una solución política, con un tono de especulación seria.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito; es una hipótesis directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugy9sU9I1W-1IGwKjtp4AaABAg": {
+    "ID_COMENTARIO": "Ugy9sU9I1W-1IGwKjtp4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es irónico al llamar 'democracia' a un sistema que el autor considera defectuoso, usando el sarcasmo en la frase 'tan buena que dicen que es'.",
+      "IRONIA": "La ironía reside en la valoración positiva de la democracia que es claramente crítica en el contexto del comentario.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwVRCC9vKt8AqnxTmx4AaABAg": {
+    "ID_COMENTARIO": "UgwVRCC9vKt8AqnxTmx4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica política directa y seria sobre la legitimidad democrática, sin elementos humorísticos.",
+      "IRONIA": "La afirmación es literal: niega la existencia de democracia en España en ese contexto.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugydz1xvhksn9HGzoIB4AaABAg": {
+    "ID_COMENTARIO": "Ugydz1xvhksn9HGzoIB4AaABAg",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una petición o sugerencia breve y descriptiva sin carga emocional ni opinión política.",
+      "IRONIA": "No hay ironía; es una instrucción o comentario funcional.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwNxZ3kqNzF3lmdAeB4AaABAg": {
+    "ID_COMENTARIO": "UgwNxZ3kqNzF3lmdAeB4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica política seria y analítica sobre la contradicción del gobierno, usando una expresión coloquial ('mear y no hechar gota') para ilustrar la hipocresía, pero sin perder el tono serio de la argumentación.",
+      "IRONIA": "La crítica es directa y literal sobre la acción del gobierno.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzeU0D17L6H5yxI5iR4AaABAg": {
+    "ID_COMENTARIO": "UgzeU0D17L6H5yxI5iR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión crítica sobre el uso de decretos y la democracia, con un tono reflexivo y argumentativo.",
+      "IRONIA": "No hay ironía; es una observación política directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugyd4dH0KvNXLp7Di3h4AaABAg": {
+    "ID_COMENTARIO": "Ugyd4dH0KvNXLp7Di3h4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "burla",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso excesivo de emojis de risa (😂) y el tono sarcástico indican una intención humorística o burlona, no seria.",
+      "IRONIA": "Frases como 'cuidado con el bicho que parece muerto' y la predicción de 'emergencia' para seguir siendo multimillonario son claramente irónicas y sarcásticas.",
+      "FUNCION_EMOJIS": "Los emojis de risa (😂) y sorpresa (😮) se utilizan para enfatizar la burla y el escarnio hacia el sujeto mencionado.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwnmacWFsIvD9MQ3wd4AaABAg": {
+    "ID_COMENTARIO": "UgwnmacWFsIvD9MQ3wd4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una intervención directa que añade un punto a una lista previa, con un tono informativo y directo.",
+      "IRONIA": "No hay indicios de ironía; es una sugerencia o corrección factual.",
+      "FUNCION_EMOJIS": "El emoji 😉 (guiño) puede interpretarse como un toque ligero o de complicidad, pero no define una función de burla o sarcasmo fuerte, siendo más bien ilustrativo o de tono suave.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugy2V22l7itF3xlZo_F4AaABAg": {
+    "ID_COMENTARIO": "Ugy2V22l7itF3xlZo_F4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Plantea una pregunta lógica y crítica sobre la legalidad de los puntos expuestos, manteniendo un tono analítico.",
+      "IRONIA": "Es una pregunta retórica o de verificación lógica, no irónica.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzL2mMBe4XsSbtyoKl4AaABAg": {
+    "ID_COMENTARIO": "UgzL2mMBe4XsSbtyoKl4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión moral crítica y de desagrado ('vergüenza y tristeza') de manera seria.",
+      "IRONIA": "No hay ironía; es una crítica directa y sincera.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwkVLg41MHakw9pZPV4AaABAg": {
+    "ID_COMENTARIO": "UgwkVLg41MHakw9pZPV4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Aunque la comparación con una dictadura es fuerte, el tono es de crítica política seria, aunque exagerada.",
+      "IRONIA": "La frase 'Debe ser la primera vez en la historia...' es irónica, ya que es falso que sea la primera vez, subrayando la absurdidad de la situación descrita.",
+      "FUNCION_EMOJIS": "El emoji 😮 (sorpresa) acompaña la exclamación final, sirviendo para enfatizar la shockante naturaleza de la comparación, no siendo burla ni humor puro.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxND8C9PiJ76F13X9l4AaABAg": {
+    "ID_COMENTARIO": "UgxND8C9PiJ76F13X9l4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Utiliza un insulto directo ('boludos') y expresa indignación por la supuesta permisividad de los ciudadanos.",
+      "IRONIA": "No es irónico; es una afirmación directa y ofensiva.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxGNDZXC0A1T4grqwZ4AaABAg": {
+    "ID_COMENTARIO": "UgxGNDZXC0A1T4grqwZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación breve y directa, posiblemente sarcástica en el contexto político, pero textualmente es una declaración seria sobre una 'misión'.",
+      "IRONIA": "Podría interpretarse como irónico dependiendo del contexto previo (si 'nuncavotistas' es un término despectivo), pero sin contexto es indeterminado o serio. Se clasifica como no irónico por falta de evidencia clara de contraste literal/implícito en el texto aislado.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwdGmMl6BggpP7Nf9V4AaABAg": {
+    "ID_COMENTARIO": "UgwdGmMl6BggpP7Nf9V4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una decisión personal y una queja política de manera directa.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugyq1hubwXV14_n-tDJ4AaABAg": {
+    "ID_COMENTARIO": "Ugyq1hubwXV14_n-tDJ4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "humor",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es burlón y humorístico al proponer un intercambio de poblaciones como si fuera un regalo.",
+      "IRONIA": "La idea de enviar 'kirchneristas de regalo' es irónica y satírica, contrastando la situación de España con una solución absurda.",
+      "FUNCION_EMOJIS": "El emoji 😅 (sudor nervioso/risa) refuerza el tono de humor incómodo o burla ligera.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwA2jBnt2gzKO-OIqZ4AaABAg": {
+    "ID_COMENTARIO": "UgwA2jBnt2gzKO-OIqZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una petición o comentario sobre la necesidad de explicaciones claras, con un tono de escepticismo pero no enfado.",
+      "IRONIA": "No es irónico.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzqGJiAY2WhRS5Lrq94AaABAg": {
+    "ID_COMENTARIO": "UgzqGJiAY2WhRS5Lrq94AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario presenta una argumentación política estructurada, crítica hacia ciertos grupos y defensiva hacia las instituciones, sin marcas de enfado explosivo ni intención humorística clara. Es un tono de opinión seria.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito. Las afirmaciones son directas.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwE_dGS-5ZbUI7Qx314AaABAg": {
+    "ID_COMENTARIO": "UgwE_dGS-5ZbUI7Qx314AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de emojis de aplauso suele indicar aprobación o celebración. No hay texto para inferir ironía o sarcasmo, por lo que se asume el sentido literal de apoyo.",
+      "IRONIA": "No hay evidencia textual de ironía.",
+      "FUNCION_EMOJIS": "Los emojis de aplauso (👏🏼) se utilizan convencionalmente para expresar aprobación, elogio o apoyo.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugw7FrFFlPozN4Fy7gJ4AaABAg": {
+    "ID_COMENTARIO": "Ugw7FrFFlPozN4Fy7gJ4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario utiliza frases entre comillas y una conclusión sarcástica sobre la 'listez' y la suerte política, contrastando la realidad con una percepción favorable irónica.",
+      "IRONIA": "El uso de comillas en \"es el más listo de la clase\" y la frase \"Todo el que ha luchado... ha perdido\" sugiere un tono sarcástico/irónico hacia la figura política mencionada.",
+      "FUNCION_EMOJIS": "Los emojis (🗳️, 🧠, 📨, 😙) acompañan el texto pero no tienen una función única clara de humor o burla predominante; actúan como ilustración o énfasis emocional mixto, por lo que 'otro' es la categoría más segura ante la ambigüedad.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyxrRG1EXaEgzhd1WV4AaABAg": {
+    "ID_COMENTARIO": "UgyxrRG1EXaEgzhd1WV4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una decisión personal basada en una premisa política. Es una afirmación directa y descriptiva de su actitud, sin carga emocional intensa ni humor.",
+      "IRONIA": "No hay ironía, es una declaración de desinterés político.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwGvALkE20vI-lB3gl4AaABAg": {
+    "ID_COMENTARIO": "UgwGvALkE20vI-lB3gl4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Afirmación concisa y directa. Aunque es una acusación grave, está formulada de manera factual y seria, sin excesos emocionales visibles en el texto corto.",
+      "IRONIA": "No hay indicios de ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyvIrX-nm_bdhPDDhR4AaABAg": {
+    "ID_COMENTARIO": "UgyvIrX-nm_bdhPDDhR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Predicción o comentario político directo. No hay elementos de humor, sarcasmo o enfado explícito.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugz8okqgYCc79AtubgB4AaABAg": {
+    "ID_COMENTARIO": "Ugz8okqgYCc79AtubgB4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de mayúsculas sostenidas, signos de exclamación múltiples y advertencias severas ('CUIDADO CIUDADANOS... TERMINÓ MUY MAL!!') denotan indignación, hostilidad y enfado.",
+      "IRONIA": "La crítica es directa y literal, no irónica.",
+      "FUNCION_EMOJIS": "El emoji de manos rezando (🙏) en este contexto de advertencia severa y 'apoyo' a la ciudadanía para que tenga cuidado, o quizás pidiendo protección, funciona como apoyo/alerta. El emoji de cara de sorpresa/temor (😳) refuerza la alarma. Se clasifica como apoyo/alerta más que burla.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzSiSJ0-twcRrOv7O54AaABAg": {
+    "ID_COMENTARIO": "UgzSiSJ0-twcRrOv7O54AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "La frase 'Disfruten lo votado' es una expresión sarcástica común en debates políticos para indicar que la situación actual es negativa o temporal, y que el usuario espera un cambio. Es una crítica disfrazada de deseo de disfrute.",
+      "IRONIA": "El uso de 'Disfruten' es irónico, dado que el contexto político suele ser polarizado y esta frase se usa para señalar descontento.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxfRkOlkOdMiPnumW14AaABAg": {
+    "ID_COMENTARIO": "UgxfRkOlkOdMiPnumW14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Afirmación categórica y breve. Aunque es una acusación, se presenta como un hecho percibido por el usuario de manera seria.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxfvwK2wfpS0jomI0x4AaABAg": {
+    "ID_COMENTARIO": "UgxfvwK2wfpS0jomI0x4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresión de satisfacción o validación positiva hacia la información presentada. Es un tono neutro-aprobatorio.",
+      "IRONIA": "No hay indicios de ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwqT-BNeVoOl8Yp63J4AaABAg": {
+    "ID_COMENTARIO": "UgwqT-BNeVoOl8Yp63J4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario utiliza una referencia política y militar ('misil') dirigida a una figura política (Puigdemont) de forma hipotética o exagerada, lo que sugiere un tono irónico o satírico más que una amenaza seria o un tono neutro.",
+      "IRONIA": "La frase 'Falta otro misil' implica que algo ya ocurrió o que la situación requiere una acción extrema, usada aquí con intención satírica/irónica hacia la figura mencionada.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxSJVf7WpuIpvLtdch4AaABAg": {
+    "ID_COMENTARIO": "UgxSJVf7WpuIpvLtdch4AaABAg",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una instrucción o petición directa y sencilla sin carga emocional evidente.",
+      "IRONIA": "No hay indicios de ironía; es una solicitud literal.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugwbip_B-vUiIDrdtlR4AaABAg": {
+    "ID_COMENTARIO": "Ugwbip_B-vUiIDrdtlR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política fuerte y crítica (acusación de dictadura) de manera directa y seria, sin elementos de humor o ironía evidentes.",
+      "IRONIA": "La afirmación es literal dentro del contexto de la crítica política del usuario.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxM830QPl6toCDWFCx4AaABAg": {
+    "ID_COMENTARIO": "UgxM830QPl6toCDWFCx4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación política concisa y seria que califica un acto como un 'golpe de estado'.",
+      "IRONIA": "No hay ironía; es una acusación directa.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzCaaDs_8NeMD0YLCt4AaABAg": {
+    "ID_COMENTARIO": "UgzCaaDs_8NeMD0YLCt4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una queja política seria sobre derechos electorales y comparaciones con animales, presentado como un argumento válido por el autor.",
+      "IRONIA": "Aunque la comparación es exagerada, se presenta como una crítica seria a un supuesto fraude o trampa electoral.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyWhF2TuEGWYK05dKZ4AaABAg": {
+    "ID_COMENTARIO": "UgyWhF2TuEGWYK05dKZ4AaABAg",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso exclusivo de un emoji de celebración indica una reacción positiva simple, sin texto que defina un tono complejo.",
+      "IRONIA": "No hay ironía en el uso estándar de un emoji de fiesta.",
+      "FUNCION_EMOJIS": "El emoji '🎉' se usa comúnmente para celebrar o mostrar apoyo/aprobación.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyIUKR7QbYkdT3mhol4AaABAg": {
+    "ID_COMENTARIO": "UgyIUKR7QbYkdT3mhol4AaABAg",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es un agradecimiento estándar, descriptivo y sin carga emocional intensa ni crítica.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugxx1RLhYki6_DC3xgF4AaABAg": {
+    "ID_COMENTARIO": "Ugxx1RLhYki6_DC3xgF4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa una postura política clara y apasionada a favor de la derecha y contra el gobierno actual, con un tono serio y comprometido.",
+      "IRONIA": "No hay ironía; las afirmaciones son literales y directas.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugzft0AbCzO3xFqwd554AaABAg": {
+    "ID_COMENTARIO": "Ugzft0AbCzO3xFqwd554AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es un análisis político detallado y crítico, utilizando lenguaje fuerte ('gilipolleces') que indica enfado o indignación, pero estructurado como una argumentación seria.",
+      "IRONIA": "No hay ironía; es una crítica directa y literal a las estrategias políticas.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugz_tu1yvYB9V-Svnjp4AaABAg": {
+    "ID_COMENTARIO": "Ugz_tu1yvYB9V-Svnjp4AaABAg",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Observa el inicio de una campaña electoral y anima a la acción ('Al lío') de manera descriptiva y motivadora, sin carga emocional negativa o humorística.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugx-4WxDvK3tGDG-VX94AaABAg": {
+    "ID_COMENTARIO": "Ugx-4WxDvK3tGDG-VX94AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "humor",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso del emoji de risa (😂) y la brevedad sugieren una intención cómica o de burla ligera, no una argumentación seria.",
+      "IRONIA": "No hay evidencia de un significado implícito contrario al literal; es una afirmación directa con carga humorística.",
+      "FUNCION_EMOJIS": "El emoji 😂 indica claramente una intención humorística o de burla leve.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwrwZFnQGzfpTYH5o14AaABAg": {
+    "ID_COMENTARIO": "UgwrwZFnQGzfpTYH5o14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica directa y despectiva ('payazote') sin elementos de humor explícito o ironía compleja. Es una valoración negativa seria.",
+      "IRONIA": "Es una crítica literal, no hay contraste entre el significado literal y el implícito.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugw02M8sfVYVEik4VZh4AaABAg": {
+    "ID_COMENTARIO": "Ugw02M8sfVYVEik4VZh4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "La repetición 'Algoritmo Algoritmo' es un meme o broma común en internet para señalar la manipulación o repetición de contenido, con intención humorística.",
+      "IRONIA": "No es irónico en el sentido estricto, es una referencia cultural/meme directa.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwfwMyUvTHoP4rgGCZ4AaABAg": {
+    "ID_COMENTARIO": "UgwfwMyUvTHoP4rgGCZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica legal y política detallada y argumentada. Aunque es dura, no muestra hostilidad emocional desbordada ni humor, sino una postura crítica seria.",
+      "IRONIA": "La crítica es literal; se cuestiona la legitimidad legal y académica de forma directa.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzKcR8Mn6dhq8Wawbx4AaABAg": {
+    "ID_COMENTARIO": "UgzKcR8Mn6dhq8Wawbx4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política y crítica sobre el comportamiento de la sociedad y los partidos. Es una afirmación seria, aunque con lenguaje coloquial ('borregos').",
+      "IRONIA": "No hay ironía; la afirmación es directa sobre la intención política.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzCZAJqDRaxXTYYR1l4AaABAg": {
+    "ID_COMENTARIO": "UgzCZAJqDRaxXTYYR1l4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta retórica o de opinión sobre la acción política del PP. No hay indicios de enfado intenso ni humor.",
+      "IRONIA": "La pregunta es directa sobre la inacción política, no implica un doble sentido irónico.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwQ7k-esp71_ooX6rN4AaABAg": {
+    "ID_COMENTARIO": "UgwQ7k-esp71_ooX6rN4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta directa sobre un evento electoral futuro. Tono informativo/interrogativo.",
+      "IRONIA": "No hay ironía, es una consulta literal.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugz7u9n_bNfhS_dWnU94AaABAg": {
+    "ID_COMENTARIO": "Ugz7u9n_bNfhS_dWnU94AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa indignación y crítica política ('perversos HDP', 'lamentable'). Aunque usa lenguaje fuerte, se mantiene en un registro de crítica seria/política, no de insulto aleatorio o humor.",
+      "IRONIA": "La crítica es literal y directa.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugz8SOxrV8vQrgeW--R4AaABAg": {
+    "ID_COMENTARIO": "Ugz8SOxrV8vQrgeW--R4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una expresión de resignación o pesimismo sobre la situación política. No es irónico ni humorístico, es una constatación triste.",
+      "IRONIA": "No hay ironía; el refrán se usa literalmente para describir una situación de exceso de ambición o corrupción.",
+      "FUNCION_EMOJIS": "El emoji 😢 expresa tristeza o lástima, sirviendo para reforzar el tono de resignación, no es burla ni humor.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwrZYpcih4DuDehI_R4AaABAg": {
+    "ID_COMENTARIO": "UgwrZYpcih4DuDehI_R4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "La frase 'conflicto civil' en el contexto actual implica una escalada de violencia extrema. Expresa una hostilidad y deseo de confrontación intensa, lo que se clasifica como tono enfadado/indignado.",
+      "IRONIA": "No es irónico; es una declaración directa de deseo de conflicto.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugx6_FG2StZutdMFeGR4AaABAg": {
+    "ID_COMENTARIO": "Ugx6_FG2StZutdMFeGR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de mayúsculas y la palabra 'DESTRUIR' denotan una postura crítica fuerte y enfática, pero se presenta como una afirmación directa y seria sobre la intención del sujeto, sin elementos de humor o ironía.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito; es una crítica directa.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugyd8JmKv1yoeQNoasZ4AaABAg": {
+    "ID_COMENTARIO": "Ugyd8JmKv1yoeQNoasZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta analítica sobre escenarios políticos hipotéticos. El tono es reflexivo y neutro, sin carga emocional evidente.",
+      "IRONIA": "Es una pregunta legítima de análisis político, no irónica.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwJhXRJoOcgmKpX_VF4AaABAg": {
+    "ID_COMENTARIO": "UgwJhXRJoOcgmKpX_VF4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Formulación de una pregunta lógica o legal. El tono es neutral y directo.",
+      "IRONIA": "No hay intención irónica; es una duda genuina o retórica sobre legalidad.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwzUkyicdzgtVqnsEF4AaABAg": {
+    "ID_COMENTARIO": "UgwzUkyicdzgtVqnsEF4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Utiliza la estructura 'Elijan: team X o team Y' típica del humor de internet. La frase final sobre la clase media muerta es una sátira cínica.",
+      "IRONIA": "Hay ironía al presentar una falsa dicotomía entre dos figuras políticas para destacar una situación absurda o negativa.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxxaIgDMoOD5Pzl2BJ4AaABAg": {
+    "ID_COMENTARIO": "UgxxaIgDMoOD5Pzl2BJ4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El lenguaje es agresivo ('MAnobras de dictador', 'Su maestro, franco'), mostrando hostilidad y reproche intenso hacia la figura mencionada.",
+      "IRONIA": "Es una acusación directa y literal, no irónica.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxQYWDUQxi-wPPW1Jp4AaABAg": {
+    "ID_COMENTARIO": "UgxQYWDUQxi-wPPW1Jp4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es un juego de palabras o broma basada en la similitud fonética o visual entre 'alquilaba' y 'P.M.' (posiblemente referring to a specific context or insult), con un tono burlón.",
+      "IRONIA": "El humor reside en la doble intención o el juego de palabras, lo cual implica ironía lingüística.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxgyN5NYQWpDOdd5VF4AaABAg": {
+    "ID_COMENTARIO": "UgxgyN5NYQWpDOdd5VF4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de 'gentuza', la comparación con la Edad Media y la frase 'El rey ha muerto' expresan indignación, hostilidad y desprecio intenso.",
+      "IRONIA": "Es una crítica directa y literal, sin capa irónica.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgynEIWFhgEjPgsf9Wh4AaABAg": {
+    "ID_COMENTARIO": "UgynEIWFhgEjPgsf9Wh4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica política estructurada y argumentada. Aunque es negativa, se expresa con seriedad y formalidad, sin gritos ni hostilidad explosiva típica del tono 'enfadado' extremo, sino como una valoración seria.",
+      "IRONIA": "No hay ironía; es una crítica directa sobre la gestión y el apeño al poder.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugxndce9jrJtamvOtel4AaABAg": {
+    "ID_COMENTARIO": "Ugxndce9jrJtamvOtel4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "humor",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de los emojis '😂😂😂' y la afirmación de que están 'desesperados' sugiere una burla o toma de distancia cómica de la situación política.",
+      "IRONIA": "Hay ironía al atribuir desesperación a la izquierda, probablemente contradiciendo la realidad o exagerándola para efecto cómico.",
+      "FUNCION_EMOJIS": "Los emojis de risa indican claramente intención humorística o de burla.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzkkJO5SC_MFYPz-3h4AaABAg": {
+    "ID_COMENTARIO": "UgzkkJO5SC_MFYPz-3h4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es un agradecimiento directo y formal. El tono es neutro/positivo pero serio en su intención.",
+      "IRONIA": "No hay ironía; es un mensaje de cortesía.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugw8PUIkxYrWcQ-UFMt4AaABAg": {
+    "ID_COMENTARIO": "Ugw8PUIkxYrWcQ-UFMt4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política crítica sobre una decisión estratégica ('jugada suicida') de forma directa y argumentativa, sin elementos humorísticos ni hostilidad explosiva.",
+      "IRONIA": "El texto es literal; critica la estrategia política sin sugerir un significado opuesto.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwzyGQsqeKz-at8b5R4AaABAg.AbcbtrAMz0nAbccELUkTaf": {
+    "ID_COMENTARIO": "UgwzyGQsqeKz-at8b5R4AaABAg.AbcbtrAMz0nAbccELUkTaf",
+    "TONO": "humoristico",
+    "IRONIA": "indeterminada",
+    "FUNCION_EMOJIS": "burla",
+    "RELACION_PADRE": "desacuerdo",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso exclusivo de emojis de risa indica una intención cómica o de burla hacia el contenido del comentario padre.",
+      "IRONIA": "Es difícil determinar si es pura risa o sarcasmo irónico sin más contexto, por lo que se marca como indeterminada, aunque la burla sugiere ironía.",
+      "FUNCION_EMOJIS": "Los emojis de risa (😂) en respuesta a una afirmación política seria suelen funcionar como mecanismo de desacuerdo mediante la ridiculización o burla.",
+      "RELACION_PADRE": "El comentario padre defiende a la izquierda y critica a los neoliberales. La risa del hijo indica rechazo o burla a esa postura, constituyendo un desacuerdo."
+    }
+  },
+  "UgxgfjFMCfklqN78ufp4AaABAg": {
+    "ID_COMENTARIO": "UgxgfjFMCfklqN78ufp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una valoración negativa directa y contundente ('genio del mal'). Aunque es fuerte, se presenta como una opinión seria sin tono de enfado desbordado ni humor.",
+      "IRONIA": "No hay ironía; es una crítica literal.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxqAQy_C0mejHR8lzF4AaABAg": {
+    "ID_COMENTARIO": "UgxqAQy_C0mejHR8lzF4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresión de agradecimiento formal y respetuosa.",
+      "IRONIA": "No hay indicios de ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyPBeXRQr2_L04CCxp4AaABAg": {
+    "ID_COMENTARIO": "UgyPBeXRQr2_L04CCxp4AaABAg",
+    "TONO": "ambiguo",
+    "IRONIA": "indeterminada",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El texto parece tener errores tipográficos o ser una referencia interna ('Hi Tler tmb') que no se comprende claramente, lo que hace ambiguo el tono.",
+      "IRONIA": "Al no entenderse el mensaje, no se puede determinar la intención irónica.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyM8ksxXrOXXEGVJ1t4AaABAg": {
+    "ID_COMENTARIO": "UgyM8ksxXrOXXEGVJ1t4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Aporta un dato o contexto etimológico/nickname ('Dirty Sánchez') de forma factual.",
+      "IRONIA": "No hay ironía, es una afirmación directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzaJCoGU5MhrFgwFRR4AaABAg": {
+    "ID_COMENTARIO": "UgzaJCoGU5MhrFgwFRR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política crítica sobre la ignorancia de un grupo y las consecuencias de medidas legislativas. Es una argumentación seria, aunque polarizada.",
+      "IRONIA": "No hay ironía; la crítica es directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugw8prQEDQBvWvzNAsJ4AaABAg": {
+    "ID_COMENTARIO": "Ugw8prQEDQBvWvzNAsJ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta retórica o de opinión sobre la legislación. El uso de 'cojones' indica cierta intensidad o frustración, pero no alcanza el nivel de 'enfadado' explosivo, sino una crítica seria.",
+      "IRONIA": "No es irónica.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxwZ-GlTdC7TTlTG3J4AaABAg": {
+    "ID_COMENTARIO": "UgxwZ-GlTdC7TTlTG3J4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Utiliza insultos directos ('mafioso', 'sinvergüenza', 'delincuente') y lenguaje agresivo, lo que denota hostilidad y enfado.",
+      "IRONIA": "La crítica es literal y directa, no irónica.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwDq1EujNuF5ur6fA94AaABAg": {
+    "ID_COMENTARIO": "UgwDq1EujNuF5ur6fA94AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una demanda de castigo severo ('encerrado en la cárcel') que refleja indignación y hostilidad extrema.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzjihbbcsYO5bUBhRN4AaABAg": {
+    "ID_COMENTARIO": "UgzjihbbcsYO5bUBhRN4AaABAg",
+    "TONO": "ambiguo",
+    "IRONIA": "indeterminada",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso exclusivo de emojis de cara gritando no transmite un tono claro (serio, humorístico, enfadado) sin contexto textual adicional.",
+      "IRONIA": "No hay evidencia textual para determinar si los emojis se usan con intención irónica o literal.",
+      "FUNCION_EMOJIS": "Los emojis expresan sorpresa o alarma, pero sin texto se clasifica como 'otro' o ilustrativo, ya que no hay contexto para burla, sarcasmo o apoyo claro.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxM2WdxDTtDQEJwO_l4AaABAg": {
+    "ID_COMENTARIO": "UgxM2WdxDTtDQEJwO_l4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario presenta una argumentación política detallada y crítica, pero sin lenguaje excesivamente agresivo o exclamativo que indique enfado puro; es una postura ideológica seria.",
+      "IRONIA": "El texto es literal y directo en sus acusaciones y análisis.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwyPCxMzA6wfFCAXOB4AaABAg": {
+    "ID_COMENTARIO": "UgwyPCxMzA6wfFCAXOB4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de metáforas intensas como 'el mismo demonio' y la expresión 'estamos hartos' denotan indignación y hostilidad.",
+      "IRONIA": "La crítica es directa y literal, no hay juego de palabras irónico.",
+      "FUNCION_EMOJIS": "Los emojis (cara de diablo, llanto) refuerzan la postura negativa y el sufrimiento, pero no cumplen una función de humor o burla específica, sino de expresión emocional intensa.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyUEmkdS4d6q2fPcId4AaABAg": {
+    "ID_COMENTARIO": "UgyUEmkdS4d6q2fPcId4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación política contundente y crítica, expresada de manera directa.",
+      "IRONIA": "No hay indicio de ironía; es una declaración de creencia política.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugzh2tkt1HbyUrygcnJ4AaABAg": {
+    "ID_COMENTARIO": "Ugzh2tkt1HbyUrygcnJ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Plantea una pregunta retórica y una crítica política sobre la gestión gubernamental, con un tono argumentativo pero no agresivo ni humorístico.",
+      "IRONIA": "La pregunta es literal en su intención de cuestionar la prioridad de gastos.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV": {
+    "ID_COMENTARIO": "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "acuerdo",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario es breve y funcional, sin carga emocional evidente más allá de la validación.",
+      "IRONIA": "No hay ironía; es una validación directa.",
+      "FUNCION_EMOJIS": "El emoji de diana (precisión) y pulgar arriba (aprobación) indican claramente apoyo y acuerdo con el comentario padre.",
+      "RELACION_PADRE": "El usuario valida la opinión del comentario padre, mostrando acuerdo total."
+    }
+  },
+  "UgyFasCMJ_HqS5BGEa14AaABAg": {
+    "ID_COMENTARIO": "UgyFasCMJ_HqS5BGEa14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política sobre una huelga, usando un término coloquial ('acojonante') que denota sorpresa o desaprobación, pero dentro de un tono de comentario social serio.",
+      "IRONIA": "No es irónico, es una valoración directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugxm0Ig6WaLS0MFucTN4AaABAg": {
+    "ID_COMENTARIO": "Ugxm0Ig6WaLS0MFucTN4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Análisis político con lenguaje despectivo ('tivio', 'flojito') hacia oponentes, pero estructurado como una argumentación seria sobre la viabilidad política.",
+      "IRONIA": "No hay ironía, es una crítica directa y descalificativa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyXzpFM3tEJsXakGhp4AaABAg": {
+    "ID_COMENTARIO": "UgyXzpFM3tEJsXakGhp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Comentario de un usuario extranjero expresando incredulidad y crítica ante una situación política, con tono serio de denuncia.",
+      "IRONIA": "No es irónico, es una expresión de sorpresa negativa.",
+      "FUNCION_EMOJIS": "El emoji de calavera (💀) se usa aquí para indicar 'muerte' o shock extremo por la malicia descrita, no humor o burla.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugy0C9vvnyNQa7OqcsZ4AaABAg": {
+    "ID_COMENTARIO": "Ugy0C9vvnyNQa7OqcsZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Argumentación política comparativa entre España y Venezuela, con tono firme y crítico hacia la idea de fraude electoral en España.",
+      "IRONIA": "No hay ironía, es una postura directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugy8_pdp3D7ppqZEmmB4AaABAg": {
+    "ID_COMENTARIO": "Ugy8_pdp3D7ppqZEmmB4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El usuario expresa una valoración positiva directa ('Excelente reflexión') sin indicios de enfado, humor o ironía. Es una opinión clara y seria.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito; es un cumplido directo.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzlvIyy1PlNU2_Su3V4AaABAg.AbcVGX9RErgAbcekUtkNsU": {
+    "ID_COMENTARIO": "UgzlvIyy1PlNU2_Su3V4AaABAg.AbcVGX9RErgAbcekUtkNsU",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "acuerdo",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de estrellas y pulgar arriba es una expresión estándar de aprobación o calificación positiva, sin carga emocional intensa ni intención humorística.",
+      "IRONIA": "No hay indicios de ironía; es una expresión directa de satisfacción o apoyo.",
+      "FUNCION_EMOJIS": "Los emojis (estrellas y pulgar arriba) se utilizan convencionalmente para indicar aprobación, calificación alta o apoyo a la opinión del padre.",
+      "RELACION_PADRE": "El comentario padre expresa un deseo político ('Ojalá voten...'). El uso de estrellas y pulgar arriba indica que el usuario está de acuerdo con esa postura o la aprueba."
+    }
+  },
+  "UgzQxYBOFarej6ZO6LZ4AaABAg": {
+    "ID_COMENTARIO": "UgzQxYBOFarej6ZO6LZ4AaABAg",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación factual o de comprensión ('Ya se entiende todo') sin carga emocional ni intención humorística.",
+      "IRONIA": "No hay elementos irónicos en la frase.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwEpYMrMODM8Fla2QR4AaABAg": {
+    "ID_COMENTARIO": "UgwEpYMrMODM8Fla2QR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El usuario hace una afirmación histórica (aunque posiblemente incorrecta o fuera de contexto) de manera directa y seria. No hay indicios de broma o enfado.",
+      "IRONIA": "No se detecta ironía; es una afirmación declarativa.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxA7_wRIDTikswErxN4AaABAg": {
+    "ID_COMENTARIO": "UgxA7_wRIDTikswErxN4AaABAg",
+    "TONO": "ambiguo",
+    "IRONIA": "indeterminada",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "La palabra 'Distópico...' es una etiqueta o adjetivo suelto. Sin contexto previo del video o del hilo, es difícil determinar si es una crítica seria, una observación neutra o una broma. Por tanto, es ambiguo.",
+      "IRONIA": "Sin contexto, no se puede determinar si el uso de la palabra es irónico o literal.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzUrPc-t2Pn_bSp1IF4AaABAg": {
+    "ID_COMENTARIO": "UgzUrPc-t2Pn_bSp1IF4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El lenguaje utilizado ('acabará pagando', 'bailaré sobre su tumba') denota hostilidad, deseo de daño o venganza contra una figura pública, lo cual se clasifica como tono enfadado o agresivo.",
+      "IRONIA": "No hay indicios de ironía; es una expresión directa de hostilidad.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzUrPc-t2Pn_bSp1IF4AaABAg.AbcUprD2TSvAbcXTvBhZRO": {
+    "ID_COMENTARIO": "UgzUrPc-t2Pn_bSp1IF4AaABAg.AbcUprD2TSvAbcXTvBhZRO",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "desacuerdo",
+    "JUSTIFICACIONES": {
+      "TONO": "El usuario responde con una afirmación directa que niega la posibilidad del evento deseado por el padre ('Eso nunca va a pasar'). Es una postura seria y negativa.",
+      "IRONIA": "No hay ironía; es una negación directa de la premisa del padre.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "El padre expresa un deseo de castigo/venganza. El hijo responde negando que eso ocurra ('Eso nunca va a pasar'), lo que constituye un desacuerdo con la expectativa o viabilidad planteada por el padre."
+    }
+  },
+  "UgzfUc25eRH509uWW2t4AaABAg": {
+    "ID_COMENTARIO": "UgzfUc25eRH509uWW2t4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de mayúsculas ('Ojalá', 'PSOE', 'Pedro Sánchez') y términos cargados ('destruyendo', 'sueño', 'poco que les queda') indica indignación y hostilidad política.",
+      "IRONIA": "No hay ironía; es una crítica directa y apasionada.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyPqi1eyRu3qlLoobZ4AaABAg": {
+    "ID_COMENTARIO": "UgyPqi1eyRu3qlLoobZ4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de mayúsculas sostenidas ('HUELGA GENERAL CONTRA LA LEY DE NIETOS !!!') y los signos de exclamación múltiples denotan urgencia, protesta y enfado o indignación.",
+      "IRONIA": "No hay ironía; es una llamada a la acción o protesta directa.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgwPCNw0CasEX6KFFIV4AaABAg": {
+    "ID_COMENTARIO": "UgwPCNw0CasEX6KFFIV4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de la palabra 'canallas' es un insulto directo y denota hostilidad y desprecio hacia la figura mencionada, clasificándose como tono enfadado o agresivo.",
+      "IRONIA": "No hay ironía; es un insulto directo.",
+      "FUNCION_EMOJIS": "No se proporcionan emojis en el texto del comentario.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzRlxiVMnTYXa4AYZF4AaABAg": {
+    "ID_COMENTARIO": "UgzRlxiVMnTYXa4AYZF4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación directa y crítica sin elementos humorísticos o de enfado explícito, aunque el término es fuerte, se presenta como una opinión seria.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito; es una etiqueta directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyoaQkKKp648X3yFVB4AaABAg": {
+    "ID_COMENTARIO": "UgyoaQkKKp648X3yFVB4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política y crítica con un lenguaje formal y descriptivo, sin indicios de enfado descontrolado o humor.",
+      "IRONIA": "El mensaje es literal y directo.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyVpcnwTUAB4e7SFXJ4AaABAg": {
+    "ID_COMENTARIO": "UgyVpcnwTUAB4e7SFXJ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación contundente y política. Aunque la propuesta es extrema, el tono es de seriedad en la expresión de la idea, no de broma.",
+      "IRONIA": "No hay indicio de ironía; es una declaración directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxaN6-ugcpD1lEaxxV4AaABAg": {
+    "ID_COMENTARIO": "UgxaN6-ugcpD1lEaxxV4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de 'jajs' al final indica claramente una intención humorística o de broma.",
+      "IRONIA": "Es una broma directa, no requiere interpretación irónica compleja.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyXOcIqpRaf_6jS5Bt4AaABAg": {
+    "ID_COMENTARIO": "UgyXOcIqpRaf_6jS5Bt4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una sugerencia técnica o comentario informativo sobre el contenido del video, sin carga emocional fuerte.",
+      "IRONIA": "Mensaje literal.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugw2ydz5yCRmVUR1jgV4AaABAg": {
+    "ID_COMENTARIO": "Ugw2ydz5yCRmVUR1jgV4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una frase descriptiva o de título, sin tono emocional evidente.",
+      "IRONIA": "No hay evidencia de ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugzrtxv1NLS5bYtUg0t4AaABAg": {
+    "ID_COMENTARIO": "Ugzrtxv1NLS5bYtUg0t4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "indeterminada",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Una sola letra 'J' suele ser una abreviatura de risa (jeje) en internet, lo que sugiere humor, pero es ambiguo.",
+      "IRONIA": "Indeterminada debido a la brevedad extrema.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyYkZ76b3efRSZck8J4AaABAg": {
+    "ID_COMENTARIO": "UgyYkZ76b3efRSZck8J4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "burla",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "La pregunta retórica combinada con emojis de risa sugiere que la afirmación no es seria, sino una burla o crítica irónica a una idea previa.",
+      "IRONIA": "El uso de '😂😂' en una pregunta sobre huelgas y poder político indica que el usuario no espera una respuesta seria, sino que se burla de la premisa.",
+      "FUNCION_EMOJIS": "Los emojis de risa se usan aquí para marcar la burla o el sarcasmo hacia la idea planteada.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyF_MCOEa_0VxVVAvJ4AaABAg": {
+    "ID_COMENTARIO": "UgyF_MCOEa_0VxVVAvJ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una opinión política clara y directa, expresada con seriedad.",
+      "IRONIA": "Mensaje literal.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwZdku6zRgmUJQ304p4AaABAg": {
+    "ID_COMENTARIO": "UgwZdku6zRgmUJQ304p4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una expresión de afecto o admiración directa.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No hay emojis, pero el texto 'I love you' indica apoyo/admiración. *Corrección*: La regla dice 'Si no hay emojis, utiliza sin_emojis'.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwzBFxZnPKWUVTAkul4AaABAg": {
+    "ID_COMENTARIO": "UgwzBFxZnPKWUVTAkul4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa una opinión política crítica y acusatoria de manera directa y contundente, sin elementos humorísticos ni sarcásticos evidentes. Se considera serio por la naturaleza de la afirmación política.",
+      "IRONIA": "No hay indicios de que el significado sea el opuesto al literal; es una acusación directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzsIekz4YWigW7gYUl4AaABAg": {
+    "ID_COMENTARIO": "UgzsIekz4YWigW7gYUl4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica política directa y una instrucción de voto, expresada con seriedad y firmeza.",
+      "IRONIA": "El mensaje es literal: se pide votar a Vox y se critica al destinatario.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxFtBsKbIR4i1HAMcp4AaABAg": {
+    "ID_COMENTARIO": "UgxFtBsKbIR4i1HAMcp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica directa al contenido del video. Aunque es negativa, no muestra enfado desbordado ni humor, sino una valoración negativa clara.",
+      "IRONIA": "No hay ironía; la crítica es explícita.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxFtBsKbIR4i1HAMcp4AaABAg.AbcMvItmvzAAbcQ0VsWvTC": {
+    "ID_COMENTARIO": "UgxFtBsKbIR4i1HAMcp4AaABAg.AbcMvItmvzAAbcQ0VsWvTC",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "desacuerdo",
+    "JUSTIFICACIONES": {
+      "TONO": "El usuario matiza su propia postura anterior o la del hilo, admitiendo que su juicio se basa en prejuicios. Es una reflexión seria sobre su propia subjetividad.",
+      "IRONIA": "No hay ironía; es una confesión honesta de sesgo.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "El comentario padre critica el contenido como 'malo'. Este comentario responde aclarando que para él 'malo' significa 'no se ajusta a mis prejuicios', lo cual es una matización o desacuerdo con la objetividad de la crítica del padre, o al menos una explicación diferente del término 'malo'. Dado que el padre dice 'contenido tan malo' y este responde definiendo su 'malo' como subjetivo, hay un desacuerdo en la valoración objetiva vs subjetiva."
+    }
+  },
+  "UgxwmvHjXkk5X6vj-QF4AaABAg": {
+    "ID_COMENTARIO": "UgxwmvHjXkk5X6vj-QF4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una teoría conspirativa o una crítica política severa con un lenguaje formal y acusatorio. No es humorístico ni irónico en el sentido literario.",
+      "IRONIA": "Las afirmaciones son tomadas en serio por el emisor como verdades o sospechas fundadas.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgykZCxi7RTx9N6zo9p4AaABAg": {
+    "ID_COMENTARIO": "UgykZCxi7RTx9N6zo9p4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una observación general sobre la naturaleza de la política española. Es una afirmación seria y analítica.",
+      "IRONIA": "No hay contraste entre el literal y el implícito.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxhcL2YnOqZ97PXFox4AaABAg.AbcM8nclJneAbcgNrGhmm2": {
+    "ID_COMENTARIO": "UgxhcL2YnOqZ97PXFox4AaABAg.AbcM8nclJneAbcgNrGhmm2",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "desacuerdo",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de mayúsculas, exclamaciones y términos como 'PURA ENVIDIA' indica un tono de enfado, indignación y reproche intenso.",
+      "IRONIA": "El mensaje es directo y agresivo, no irónico.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "El comentario padre acusa a Feijóo de amistad con el narco. Este comentario responde refutando esa conexión ('Feijóo no era amigo del narco') y atacando la motivación del padre ('envidia'), mostrando un desacuerdo total."
+    }
+  },
+  "UgxeHYFYC2IIpqcil-h4AaABAg": {
+    "ID_COMENTARIO": "UgxeHYFYC2IIpqcil-h4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta factual sobre procedimientos políticos. Es neutra y seria.",
+      "IRONIA": "No hay ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxvEzWc7BTnqygii_94AaABAg": {
+    "ID_COMENTARIO": "UgxvEzWc7BTnqygii_94AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una preocupación o advertencia política. Aunque el tono es de alerta, no es necesariamente de enfado personal, sino de seriedad ante una supuesta amenaza.",
+      "IRONIA": "No hay indicios de ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugz5HT7GymOi5NyrFMp4AaABAg": {
+    "ID_COMENTARIO": "Ugz5HT7GymOi5NyrFMp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de emojis de aplausos suele indicar aprobación o apoyo. El tono es positivo de apoyo.",
+      "IRONIA": "No hay evidencia de ironía; los aplausos son generalmente literales en este contexto.",
+      "FUNCION_EMOJIS": "Los emojis de aplausos (👏) se utilizan comúnmente para expresar aprobación, elogio o apoyo a una idea o persona.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyzDuunpkcq13bqLpt4AaABAg": {
+    "ID_COMENTARIO": "UgyzDuunpkcq13bqLpt4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política directa sin marcadores de enfado extremo ni intención humorística clara, aunque el emoji sugiere ligereza.",
+      "IRONIA": "El contenido es una afirmación directa sobre una intención política, no hay contraste entre el literal y el implícito.",
+      "FUNCION_EMOJIS": "Los emojis de risa (😅) suavizan el tono o indican incomodidad, pero no constituyen burla explícita ni sarcasmo puro en este contexto breve; actúan como atenuante o marca de ligereza.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzJHUlkXNFRNEjViNx4AaABAg": {
+    "ID_COMENTARIO": "UgzJHUlkXNFRNEjViNx4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "humor",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Presenta una situación hipotética o exagerada con un tono ligero y cómicamente esperanzado o burlón hacia la política.",
+      "IRONIA": "No hay ironía estructural; es una afirmación directa con un giro humorístico.",
+      "FUNCION_EMOJIS": "El emoji 'xD' indica claramente intención humorística o risa.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugw1kfOxve91Bp88OXt4AaABAg": {
+    "ID_COMENTARIO": "Ugw1kfOxve91Bp88OXt4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Crítica política directa y argumentativa sin carga emocional de enfado explosivo ni humor.",
+      "IRONIA": "El mensaje es literal: advierte sobre el engaño político.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxSaQBUcd_yUudQCyp4AaABAg": {
+    "ID_COMENTARIO": "UgxSaQBUcd_yUudQCyp4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Utiliza la hipérbole y la comparación histórica para criticar, lo cual es una forma de ironía política.",
+      "IRONIA": "La sugerencia de renombrar el decreto es una sátira/ironía para resaltar lo que el autor considera excesivamente conservador o franquista.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugy8Kvt5HtqCPto5NOd4AaABAg": {
+    "ID_COMENTARIO": "Ugy8Kvt5HtqCPto5NOd4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Tono sarcástico e irónico al reducir la capacidad militar a un solo misil, minimizando la realidad.",
+      "IRONIA": "La frase es claramente irónica; no se afirma literalmente que solo exista un misil, sino que se critica la escasez o la percepción de debilidad.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugyom9o1yTO0S00HTyl4AaABAg": {
+    "ID_COMENTARIO": "Ugyom9o1yTO0S00HTyl4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Lenguaje conversacional y descriptivo, anticipando eventos futuros sin carga emocional fuerte.",
+      "IRONIA": "No hay ironía; es una predicción o comentario directo sobre la agenda política.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzUB6zcFGWAFUiIBZp4AaABAg": {
+    "ID_COMENTARIO": "UgzUB6zcFGWAFUiIBZp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Reflexión retórica seria sobre la responsabilidad ciudadana.",
+      "IRONIA": "Es una pregunta retórica lógica, no irónica en el sentido de decir lo contrario de lo que se piensa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxFnzuqpHNuDJv2kWN4AaABAg": {
+    "ID_COMENTARIO": "UgxFnzuqpHNuDJv2kWN4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Uso de vocabulario agresivo y descalificador ('miserable canalla') que denota hostilidad y reproche intenso.",
+      "IRONIA": "No hay ironía; es una condena directa y literal.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwEmesIo_dEeOx1M2N4AaABAg": {
+    "ID_COMENTARIO": "UgwEmesIo_dEeOx1M2N4AaABAg",
+    "TONO": "neutro",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Comentario informativo que corrige o aclara datos históricos y fechas, sin carga emocional.",
+      "IRONIA": "No hay ironía; es una corrección factual.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwXuyhHQ49wEh7fK0J4AaABAg": {
+    "ID_COMENTARIO": "UgwXuyhHQ49wEh7fK0J4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Tono burlón y humorístico al referirse a la política como 'circo' y usar una expresión coloquial de golpe.",
+      "IRONIA": "No es estrictamente irónico en el sentido de contraste semántico, sino satírico/humorístico.",
+      "FUNCION_EMOJIS": "No hay emojis, pero el texto tiene una función humorística. La categoría de emojis es 'sin_emojis' pero la justificación debe reflejar que no hay emojis. Corrigiendo: la función de emojis es 'sin_emojis'.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyRCc6khZ1JEU4WwTh4AaABAg": {
+    "ID_COMENTARIO": "UgyRCc6khZ1JEU4WwTh4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa una opinión política directa y crítica sin elementos de humor, sarcasmo o enfado explosivo. Es una afirmación categórica.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito. Es una crítica directa.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgzbOlfwaOk97yGOxHZ4AaABAg": {
+    "ID_COMENTARIO": "UgzbOlfwaOk97yGOxHZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una declaración de intención o deseo político. No hay indicios de enfado extremo ni humor, es una postura clara.",
+      "IRONIA": "El mensaje es literal: se quiere acabar con la situación actual.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxYFwSpxquS9O3wqo54AaABAg": {
+    "ID_COMENTARIO": "UgxYFwSpxquS9O3wqo54AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El usuario expresa confusión y descontento político de manera argumentativa. Aunque critica, no usa un lenguaje hostil o insultante que indique enfado puro, sino una valoración negativa.",
+      "IRONIA": "No hay ironía, las preguntas son retóricas para expresar frustración con la gestión actual.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugy97y-wplGUBJCYGN14AaABAg": {
+    "ID_COMENTARIO": "Ugy97y-wplGUBJCYGN14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica detallada y argumentada sobre la huelga y los decretos. El tono es de decepción y análisis político, no de ira descontrolada.",
+      "IRONIA": "No se detecta ironía. Las preguntas buscan aclarar la intención del gobierno.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxrCftXtq0DKMwgEit4AaABAg": {
+    "ID_COMENTARIO": "UgxrCftXtq0DKMwgEit4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es de acusación grave y crítica política. Aunque es fuerte, se mantiene en el registro de la opinión política seria (aunque sesgada), sin caer en el humor o la ironía.",
+      "IRONIA": "No hay ironía. Es una comparación directa y literal entre regímenes.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxbYlEvh0XlYw0OYdt4AaABAg": {
+    "ID_COMENTARIO": "UgxbYlEvh0XlYw0OYdt4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una etiqueta política breve. Se interpreta como una afirmación seria de alineación o advertencia política.",
+      "IRONIA": "No hay evidencia de ironía. Es una comparación directa.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyZ1Ig8dlFln4l2S214AaABAg": {
+    "ID_COMENTARIO": "UgyZ1Ig8dlFln4l2S214AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una negativa rotunda y una comparación política fuerte. Aunque usa hipérbole (Satanás), el tono es de convicción política seria y rechazo.",
+      "IRONIA": "No es irónico; el usuario está expresando su postura real de rechazo extremo.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxxC5HxK-VJnqwzKx14AaABAg": {
+    "ID_COMENTARIO": "UgxxC5HxK-VJnqwzKx14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es un texto largo y apasionado, pero estructurado como un manifiesto o consejo político. El tono es serio y urgente, no humorístico ni irónico.",
+      "IRONIA": "No hay ironía. Las advertencias son literales.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxBuTuOW2iqBdUnAHx4AaABAg": {
+    "ID_COMENTARIO": "UgxBuTuOW2iqBdUnAHx4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una acusación directa de propaganda. El tono es de denuncia política.",
+      "IRONIA": "No hay ironía. Es una afirmación directa.",
+      "FUNCION_EMOJIS": "Los emojis de megáfono (📣) se usan para enfatizar la idea de 'propaganda' o 'grito', cumpliendo una función ilustrativa o de énfasis, no de humor o burla directa.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgyNjlsEte29FJ_pVQV4AaABAg": {
+    "ID_COMENTARIO": "UgyNjlsEte29FJ_pVQV4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El usuario expresa una renuencia política y una decisión forzada. El tono es de resignación y seriedad política.",
+      "IRONIA": "No hay ironía. Es una confesión personal de cambio de postura política.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "UgxLifwUHDQkD5mPSYx4AaABAg": {
+    "ID_COMENTARIO": "UgxLifwUHDQkD5mPSYx4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una opinión política y una queja sobre la situación del país con un lenguaje directo y grave, sin elementos humorísticos ni sarcásticos evidentes.",
+      "IRONIA": "El mensaje es literal; expresa una preocupación genuina por la soberanía y la seguridad.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwfWfpxJqz_hDkeEfZ4AaABAg": {
+    "ID_COMENTARIO": "UgwfWfpxJqz_hDkeEfZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación directa sobre la reputación y las posibilidades electorales de una figura, con un tono crítico pero no necesariamente enfadado ni humorístico.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito; es una crítica directa.",
+      "FUNCION_EMOJIS": "El emoji 👎 (pulgar abajo) se utiliza para expresar desaprobación o desacuerdo con la figura mencionada, funcionando como apoyo a la idea de que su reputación está dañada.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzWIdsvNUv4bqZGnIl4AaABAg": {
+    "ID_COMENTARIO": "UgzWIdsvNUv4bqZGnIl4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Adquiere un tono humorístico o irónico al despedirse de un país como si fuera una visita temporal o un exilio, usando una frase típica de despedida ('Fue un gusto conocerlos') en un contexto político de ruptura.",
+      "IRONIA": "Utiliza la ironía para sugerir que la situación actual es tan negativa que parece mejor irse, contrastando la cortesía de la despedida con la gravedad del contexto político.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugwl70WBUlVgcWLvrdF4AaABAg": {
+    "ID_COMENTARIO": "Ugwl70WBUlVgcWLvrdF4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de mayúsculas, signos de exclamación y palabras como 'ansiedad' y '¡Por Dios!' denotan una carga emocional intensa, frustración e impaciencia, cercanas a la indignación.",
+      "IRONIA": "La expresión es literal y directa, no hay un doble sentido irónico.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzBvcfz34CV0H80CDh4AaABAg": {
+    "ID_COMENTARIO": "UgzBvcfz34CV0H80CDh4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es marcadamente irónico y sarcástico. El autor utiliza un lenguaje cargado de prejuicios y exageraciones ('hordas', 'caudillo', 'chavismo') para criticar, pero la frase 'Todo MUY social, justo y democrático' al final es claramente irónica, ya que el contexto descrito es de conflicto y desigualdad percibida.",
+      "IRONIA": "La frase final 'Todo MUY social, justo y democrático' es una ironía mordaz que contrasta la descripción negativa del comportamiento de los sindicatos con los valores positivos de esos términos.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugwyim6wwI3QAW81zWp4AaABAg": {
+    "ID_COMENTARIO": "Ugwyim6wwI3QAW81zWp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una expectativa o deseo personal ('Estoy ansiosa por ver') de manera directa y descriptiva.",
+      "IRONIA": "No hay intención irónica; es una declaración de interés.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgxcaWzq1NBkhsWGYI14AaABAg": {
+    "ID_COMENTARIO": "UgxcaWzq1NBkhsWGYI14AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es humorístico y satírico. Sugiere una absurda burocracia o prioridad política ('fabricacion de un Pedromovil') justificada por una causa grandilocuente ('Bien de la Humanidad').",
+      "IRONIA": "La ironía reside en la comparación de una supuesta necesidad burocrática o personal con el 'Bien de la Humanidad', ridiculizando la supuesta magnitud o prioridad del asunto.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwUZ-X27ByNUNvD1gt4AaABAg": {
+    "ID_COMENTARIO": "UgwUZ-X27ByNUNvD1gt4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación política seria y crítica, calificando la situación actual como 'dictadura' y advirtiendo sobre el futuro.",
+      "IRONIA": "No hay ironía; es una acusación directa y literal.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyRN8KYeDRO5eo8-094AaABAg": {
+    "ID_COMENTARIO": "UgyRN8KYeDRO5eo8-094AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una valoración negativa concisa. Aunque breve, expresa una postura crítica seria sobre la situación.",
+      "IRONIA": "No hay evidencia de ironía; es una opinión directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugz04VMZeR6lKHHYZp94AaABAg": {
+    "ID_COMENTARIO": "Ugz04VMZeR6lKHHYZp94AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "humor",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es humorístico y sarcástico. Sugiere que el jefe de estado firmará decretos 'fascistas' solo cuando ya no sea necesario, ridiculizando la acción política.",
+      "IRONIA": "La ironía está en la sugerencia de que la firma de los decretos es un trámite sin efecto real o una farsa, combinada con el uso de la palabra 'fascistas' en un contexto que parece burlarse de la gravedad del acto.",
+      "FUNCION_EMOJIS": "El emoji 😂 indica que el usuario interpreta el comentario como gracioso o satírico, reforzando el tono humorístico.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugz3_Ng2YMQbab9oHlB4AaABAg": {
+    "ID_COMENTARIO": "Ugz3_Ng2YMQbab9oHlB4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa una opinión política basada en una comparación histórica (Venezuela) sin mostrar hostilidad explícita, insultos o intención humorística. Es una crítica política seria.",
+      "IRONIA": "No hay indicios de que el significado sea el opuesto al literal. Es una afirmación directa sobre percepciones pasadas.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugydoeo-F4spz3FLMXR4AaABAg": {
+    "ID_COMENTARIO": "Ugydoeo-F4spz3FLMXR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una declaración de preferencia personal o deseo deportivo/político. No hay carga emocional negativa ni humorística.",
+      "IRONIA": "La intención es literal: desea que gane un participante específico.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwqBKe0qpir_NW7JqN4AaABAg": {
+    "ID_COMENTARIO": "UgwqBKe0qpir_NW7JqN4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Realiza una predicción política y una comparación histórica. Aunque es una opinión fuerte, no utiliza lenguaje hostil, insultante o irónico, sino argumentativo.",
+      "IRONIA": "La afirmación es literal; no sugiere un significado oculto contrario a las palabras.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyHPdMyuS6pb636bCd4AaABAg": {
+    "ID_COMENTARIO": "UgyHPdMyuS6pb636bCd4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una afirmación concisa sobre un evento político futuro percibido como fraudulento. No hay elementos de humor o enfado desbordado.",
+      "IRONIA": "No hay contraste entre lo dicho y lo significado.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugyl9RndCxpkS2KXyIt4AaABAg": {
+    "ID_COMENTARIO": "Ugyl9RndCxpkS2KXyIt4AaABAg",
+    "TONO": "neutral",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "apoyo",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El contenido es mínimo y funcional. No transmite una postura argumentativa compleja, sino una reacción simple.",
+      "IRONIA": "No aplica.",
+      "FUNCION_EMOJIS": "El emoji 👍 (pulgar arriba) se utiliza universalmente para expresar aprobación, acuerdo o apoyo.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyxafUiDq14ySYuusd4AaABAg": {
+    "ID_COMENTARIO": "UgyxafUiDq14ySYuusd4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una acusación política concreta (fraude electoral). Aunque es una crítica severa, se formula como una afirmación de creencia, no como un ataque personal o insulto directo que indique enfado emocional.",
+      "IRONIA": "No hay indicios de ironía; el usuario afirma su creencia literalmente.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzVWXYUUmRZi_ZcPGV4AaABAg": {
+    "ID_COMENTARIO": "UgzVWXYUUmRZi_ZcPGV4AaABAg",
+    "TONO": "ironico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Utiliza una estructura condicional para definir algo positivo ('político de raza') mediante atributos negativos ('sociópata', 'traicionar'). El tono es sarcástico/irónico al elogiar mediante insultos.",
+      "IRONIA": "La frase es irónica porque usa la etiqueta 'político de raza' (típicamente positiva o de respeto) para describir comportamientos moralmente reprobables, creando un contraste entre la forma y el fondo.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwwhksOp9ogbMDWTWZ4AaABAg": {
+    "ID_COMENTARIO": "UgwwhksOp9ogbMDWTWZ4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica política ideológica severa. Aunque usa metáforas fuertes ('cáncer'), se mantiene en el registro de la argumentación política y la advertencia histórica, sin caer en el insulto personal directo o la risa.",
+      "IRONIA": "No hay ironía; la crítica es directa y literal.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyAnGlR1F5SeztX1wx4AaABAg.AbcALcn37U5Abcn7z0N2kf": {
+    "ID_COMENTARIO": "UgyAnGlR1F5SeztX1wx4AaABAg.AbcALcn37U5Abcn7z0N2kf",
+    "TONO": "neutral",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "neutral",
+    "JUSTIFICACIONES": {
+      "TONO": "Presenta un dato o información ('le quitaron la financiación') sin carga emocional evidente ni juicio de valor explícito en la frase.",
+      "IRONIA": "No hay indicios de ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "El comentario padre habla de financiación del PP a sindicatos. Este comentario introduce un hecho diferente (Castilla y León) sin contradecir ni apoyar directamente la postura del padre, sino aportando información contextual o alternativa. No es un desacuerdo frontal ni un acuerdo explícito, por lo que se clasifica como neutral en la relación de respuesta."
+    }
+  },
+  "UgyTXn7uZf2MgZmo_sp4AaABAg": {
+    "ID_COMENTARIO": "UgyTXn7uZf2MgZmo_sp4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "humor",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso exclusivo de caritas riendo (🤣) indica una intención de reírse o señalar algo cómico, independientemente del contexto del video.",
+      "IRONIA": "No hay contenido textual para analizar ironía. Los emojis indican risa.",
+      "FUNCION_EMOJIS": "Los emojis 🤣 representan risa y humor.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyXFvcnqENJNrlp3Wl4AaABAg": {
+    "ID_COMENTARIO": "UgyXFvcnqENJNrlp3Wl4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El comentario expresa una condición política y una bienvenida de manera directa y declarativa, sin elementos de humor, sarcasmo o enfado explosivo. Es una postura ideológica clara.",
+      "IRONIA": "No hay contraste entre el significado literal y el implícito. La frase es literal.",
+      "FUNCION_EMOJIS": "No hay emojis en el texto.",
+      "RELACION_PADRE": "No hay comentario padre asociado."
+    }
+  },
+  "Ugy_PCSZYmNOJDcjYC54AaABAg": {
+    "ID_COMENTARIO": "Ugy_PCSZYmNOJDcjYC54AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El tono es crítico y analítico sobre la situación del mercado inmobiliario y las consecuencias sociales. Aunque es una crítica fuerte, se expresa mediante argumentación sobre precios y disponibilidad, no mediante insultos o gritos.",
+      "IRONIA": "No se detecta ironía. Es una predicción o análisis directo.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugy0IgU9rjqMkKHtVj14AaABAg": {
+    "ID_COMENTARIO": "Ugy0IgU9rjqMkKHtVj14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una preocupación política grave y una postura ideológica sobre el riesgo de conflicto civil. Aunque el tema es grave, el tono es de advertencia política seria, no de enfado descontrolado.",
+      "IRONIA": "No hay ironía. La afirmación es directa.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgybU5X8POOoKgldMUp4AaABAg": {
+    "ID_COMENTARIO": "UgybU5X8POOoKgldMUp4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica política directa y contundente. No hay elementos humorísticos ni sarcásticos evidentes en la estructura de la frase.",
+      "IRONIA": "No es irónico; es una afirmación de desacuerdo político.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugwp40kwmDKSm_HOGl14AaABAg": {
+    "ID_COMENTARIO": "Ugwp40kwmDKSm_HOGl14AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de insultos directos como 'zarrapastroso', 'inutiles', 'visionario que se cree un mesías' y la descripción de la sociedad como 'aborregada' denotan hostilidad, indignación y enfado hacia los actores políticos mencionados.",
+      "IRONIA": "No es irónico; es un ataque directo y literal.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugz3Wc-YsBNvlNhbWVF4AaABAg": {
+    "ID_COMENTARIO": "Ugz3Wc-YsBNvlNhbWVF4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de mayúsculas sostenidas y la repetición de la estructura 'NO ODIAMOS LO SUFICIENTE' transmite una intensidad emocional alta, indignación y hostilidad hacia los grupos mencionados.",
+      "IRONIA": "No es irónico. Es una afirmación enfática de odio o falta de odio.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "Ugx-tK0PrbTqI6QSOyx4AaABAg": {
+    "ID_COMENTARIO": "Ugx-tK0PrbTqI6QSOyx4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "otro",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Utiliza un refrán o expresión coloquial ('no habidi, hermano, timbales') de forma cómica para minimizar la amenaza de la huelga. El tono es ligero y burlón.",
+      "IRONIA": "Hay ironía en la comparación entre la huelga y los timbales, sugiriendo que no hay fuerza real detrás de la amenaza, solo ruido.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgzqmlYpq-SX9e94YS14AaABAg": {
+    "ID_COMENTARIO": "UgzqmlYpq-SX9e94YS14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica al sistema político y una propuesta de cambio (constituyente). Se expresa con frustración pero de manera argumentativa y seria.",
+      "IRONIA": "No hay ironía. Es una crítica directa a la complejidad y corrupción del sistema.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyXTxl2CuDYqS493Wd4AaABAg": {
+    "ID_COMENTARIO": "UgyXTxl2CuDYqS493Wd4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una crítica política profunda y pesimista. Aunque usa insultos ('psicópata'), el tono general es de análisis político serio y desolado, no de enfado explosivo puro.",
+      "IRONIA": "Hay ironía en la frase '¡Sí señor! ¡Muy bien echa la Norma!' y en la idea de que 'nos buscamos los problemas porque nos gustan', que contrasta con la realidad negativa descrita.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgyhTUdW42D8VnP8LB14AaABAg": {
+    "ID_COMENTARIO": "UgyhTUdW42D8VnP8LB14AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresa una imagen mental de miedo o alarma política. Es una afirmación seria sobre una consecuencia percibida como negativa.",
+      "IRONIA": "No es irónico. Es una proyección de miedo o crítica directa.",
+      "FUNCION_EMOJIS": "No hay emojis.",
+      "RELACION_PADRE": "No hay comentario padre."
+    }
+  },
+  "UgwoNOzkvMTaJdNWXn94AaABAg": {
+    "ID_COMENTARIO": "UgwoNOzkvMTaJdNWXn94AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta directa y factual sin carga emocional evidente ni intención cómica.",
+      "IRONIA": "La pregunta es literal y busca una definición, no hay contraste entre el significado literal y el implícito.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "UgxEKV2BD1o9Ht6LM_94AaABAg": {
+    "ID_COMENTARIO": "UgxEKV2BD1o9Ht6LM_94AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El usuario expone una opinión política compleja y argumentada. Aunque usa la palabra 'genio' para un político al que critica éticamente, el tono es de análisis político y valoración, no de broma o sarcasmo abierto, sino de reconocimiento estratégico.",
+      "IRONIA": "No hay ironía; el usuario dice lo que piensa literalmente: que es un 'genio' en el sentido de habilidad política, aunque moralmente reprobable.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "Ugxa-l1dy8nBwsgLxKR4AaABAg": {
+    "ID_COMENTARIO": "Ugxa-l1dy8nBwsgLxKR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Expresión de gratitud simple y directa.",
+      "IRONIA": "No hay indicio de ironía.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "UgwO--dv2jpc75I5MBR4AaABAg": {
+    "ID_COMENTARIO": "UgwO--dv2jpc75I5MBR4AaABAg",
+    "TONO": "serio",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Reflexión política sobre la efectividad de ciertas tácticas. Es una afirmación analítica.",
+      "IRONIA": "No se detecta ironía; la afirmación parece sincera en su contexto de análisis de poder.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "UgzL14aZlqSjVqWd4UV4AaABAg": {
+    "ID_COMENTARIO": "UgzL14aZlqSjVqWd4UV4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El uso de 'Hail Sánchez' (saludo asociado a regímenes totalitarios o figuras de culto) combinado con 'Estamos bien jodidos' sugiere un tono irónico y humorístico de resignación.",
+      "IRONIA": "Hay ironía clara al saludar a un líder democrático con un saludo típicamente dictatorial ('Hail') para resaltar la situación política negativa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "Ugzp4pux_XIXOewjydJ4AaABAg": {
+    "ID_COMENTARIO": "Ugzp4pux_XIXOewjydJ4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Es una pregunta absurda o de broma comparando una acción política con un gesto doméstico/violento específico (Isa Rallo). Tiene intención cómica.",
+      "IRONIA": "No es ironía, es una comparación humorística o absurda directa.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "UgwDm32cTROutbq8aId4AaABAg": {
+    "ID_COMENTARIO": "UgwDm32cTROutbq8aId4AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "El lenguaje es despectivo ('Espectáculo', 'a llorar al parque'), mostrando hostilidad y menosprecio hacia la oposición.",
+      "IRONIA": "No es irónico, es una crítica directa y agresiva.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "UgwDm32cTROutbq8aId4AaABAg.Abc6MaBn65fAbcDMDWoWyC": {
+    "ID_COMENTARIO": "UgwDm32cTROutbq8aId4AaABAg.Abc6MaBn65fAbcDMDWoWyC",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "desacuerdo",
+    "JUSTIFICACIONES": {
+      "TONO": "Respuesta hostil que invierte la acusación, indicando que el padre debería ser quien vaya al 'parque' (lugar de ancianos o internado, insulto).",
+      "IRONIA": "No es ironía, es un contraataque directo.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "Desacuerdo total. El padre dice que la oposición llora; el hijo responde que el padre es el que tiene que irse."
+    }
+  },
+  "Ugx1ITvZwrv74L5qrQZ4AaABAg": {
+    "ID_COMENTARIO": "Ugx1ITvZwrv74L5qrQZ4AaABAg",
+    "TONO": "humoristico",
+    "IRONIA": "si",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Plantea una situación hipotética extrema (presidente perpetuo) con un tono de broma o sátira política.",
+      "IRONIA": "Es irónico/satírico al sugerir que podrían hacer una ley para gobernar siempre, ridiculizando la idea o el poder actual.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  },
+  "Ugxn6b6MUbi-ky6kkp54AaABAg": {
+    "ID_COMENTARIO": "Ugxn6b6MUbi-ky6kkp54AaABAg",
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "sin_emojis",
+    "RELACION_PADRE": "no_aplica",
+    "JUSTIFICACIONES": {
+      "TONO": "Lenguaje muy agresivo ('saca por la fuerza', 'con las armas', 'sociopata', 'con los pies para adelante'). Muestra indignación extrema.",
+      "IRONIA": "No es irónico; es una llamada a la acción violenta literal o hiperbólica muy seria en su tono de indignación.",
+      "FUNCION_EMOJIS": "No contiene emojis.",
+      "RELACION_PADRE": "No tiene comentario padre asociado."
+    }
+  }
+}

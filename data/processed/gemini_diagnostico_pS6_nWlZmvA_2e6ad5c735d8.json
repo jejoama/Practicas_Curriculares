@@ -1,0 +1,226 @@
+{
+  "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbwBTjd-s9::RELACION_PADRE": {
+    "clave": "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbwBTjd-s9::RELACION_PADRE",
+    "evidencia_original": "El comentario menciona la necesidad de una 'huelga general', término central en el comentario padre, lo que sugiere continuación temática.",
+    "evidencia_alternativa": "El texto cambia radicalmente el foco hacia los propietarios de alquileres y el 40% del salario, distanciándose de la crítica al gobierno del padre.",
+    "causa_posible": "Ambigüedad sobre si la conexión temática superficial (huelga general) es suficiente para considerarlo relacionado a pesar de desviar el argumento principal.",
+    "regla_sugerida": "Clasificar como acuerdo solo si el comentario responde directamente al argumento del padre y no si solo reutiliza una palabra clave para introducir un tema nuevo."
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7::TONO": {
+    "clave": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7::TONO",
+    "evidencia_original": "El texto plantea una afirmación sobre la insuficiencia de las huelgas con una puntuación y estructura calmada, interpretada como reflexión seria.",
+    "evidencia_alternativa": "La afirmación categórica sobre la ineficacia de las huelgas refleja frustración e indignación ante la situación descrita en el padre, apuntando a enfado.",
+    "causa_posible": "Diferencia de umbral al interpretar la frustración política implícita: un modelo prioriza la sobriedad sintáctica y el otro la carga emocional del mensaje.",
+    "regla_sugerida": "Si el comentario critica la inacción o ineficacia mediante quejas directas sobre problemas socioeconómicos, etiquetar como 'enfadado' debido a la frustración subyacente."
+  },
+  "UgwdGmMl6BggpP7Nf9V4AaABAg::TONO": {
+    "clave": "UgwdGmMl6BggpP7Nf9V4AaABAg::TONO",
+    "evidencia_original": "La frase expresa una decisión personal sobre migrar del país ante un escenario político, mantenida con una postura descriptiva y seria.",
+    "evidencia_alternativa": "La amenaza de abandonar el país por 4 años más de gobierno muestra un alto grado de hartazgo, fastidio y enojo con la situación.",
+    "causa_posible": "Confusión entre una declaración de postura política firme (serio) y la manifestación de hartazgo emocional ante un resultado electoral (enfadado).",
+    "regla_sugerida": "Etiquetar como 'enfadado' cuando el comentario exprese medidas extremas de descontento personal (como irse del país) motivadas por frustración política."
+  },
+  "UgxVfe1PratGvoSFAtd4AaABAg::TONO": {
+    "clave": "UgxVfe1PratGvoSFAtd4AaABAg::TONO",
+    "evidencia_original": "El uso de una pregunta directa sobre inacción política ('porqué la derecha se queda tan de manos Cruzadas') refleja una preocupación genuina y un tono serio.",
+    "evidencia_alternativa": "La combinación de la queja política con el emoji de espadas cruzadas ⚔️ puede interpretarse como una exageración dramática con tintes humorísticos o hiperbólicos.",
+    "causa_posible": "Ambigüedad en la interpretación de los emojis y si estos transforman una queja seria en una dramatización jocosa.",
+    "regla_sugerida": "Si un comentario expresa una queja política directa, debe clasificarse como serio a menos que contenga elementos explícitamente cómicos o burlescos."
+  },
+  "UgxVfe1PratGvoSFAtd4AaABAg::IRONIA": {
+    "clave": "UgxVfe1PratGvoSFAtd4AaABAg::IRONIA",
+    "evidencia_original": "El texto plantea una duda legítima sin inversión aparente de significado; el emisor realmente parece cuestionar la pasividad de un sector político.",
+    "evidencia_alternativa": "La expresión 'manos cruzadas' junto con el emoji de combate ⚔️ podría sugerir una contradicción sarcástica sobre la supuesta pasividad.",
+    "causa_posible": "Confusión entre una metáfora visual o retórica y el uso real de la ironía.",
+    "regla_sugerida": "No etiquetar como irónico un comentario a menos que haya una contradicción clara y evidente entre el sentido literal y el contexto."
+  },
+  "UgxVfe1PratGvoSFAtd4AaABAg::FUNCION_EMOJIS": {
+    "clave": "UgxVfe1PratGvoSFAtd4AaABAg::FUNCION_EMOJIS",
+    "evidencia_original": "El emoji ⚔️ acompaña visualmente a la frase 'manos cruzadas' ilustrando la idea de lucha o conflicto, sin encajar puramente en humor.",
+    "evidencia_alternativa": "El uso del emoji bélico en un contexto político cotidiano puede interpretarse como un adorno con matiz humorístico o exagerado.",
+    "causa_posible": "Diferencias en la categorización de emojis que ilustran conceptos abstractos (como la confrontación política).",
+    "regla_sugerida": "Clasificar los emojis como 'humor' solo cuando busquen claramente la comicidad; si ilustran una metáfora del texto, usar 'otro'."
+  },
+  "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::TONO": {
+    "clave": "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::TONO",
+    "evidencia_original": "Los emojis 🎯👍 son respuestas directas y de apoyo a los argumentos del comentario padre, manteniéndose en un registro neutro de aprobación.",
+    "evidencia_alternativa": "La combinación de 'diana' y 'pulgar arriba' como respuesta a una crítica política intensa puede verse como un guiño sarcástico o humorístico hacia la situación.",
+    "causa_posible": "Interpretación subjetiva de si los emojis de acuerdo simple constituyen una reacción neutra o una postura cómica ante un debate.",
+    "regla_sugerida": "Los comentarios compuestos únicamente por emojis de aprobación (como pulgar arriba) deben considerarse neutros respecto al tono general."
+  },
+  "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::IRONIA": {
+    "clave": "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::IRONIA",
+    "evidencia_original": "Los emojis 🎯👍 significan 'exacto' o 'bien dicho', mostrando acuerdo literal con el comentario anterior sin inversión irónica.",
+    "evidencia_alternativa": "Podría interpretarse que celebrar con una diana un comentario largo y polémico sobre política contiene un matiz de burla irónica hacia el bando criticado.",
+    "causa_posible": "Sobreinterpretación de símbolos de validación simple (🎯👍) asumiendo intenciones ocultas de burla.",
+    "regla_sugerida": "Los emojis de validación directa (como pulgar arriba o diana) no deben clasificarse como irónicos a menos que el contexto textual lo indique explícitamente."
+  },
+  "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::FUNCION_EMOJIS": {
+    "clave": "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::FUNCION_EMOJIS",
+    "evidencia_original": "El uso del emoji de la diana (🎯) suele interpretarse como que se ha dado en el clavo, mostrando respaldo a la postura del comentario anterior.",
+    "evidencia_alternativa": "Los emojis también pueden usarse de forma sarcástica para señalar que alguien es demasiado obvio o criticar la postura con burla.",
+    "causa_posible": "Ambigüedad de los emojis aislados sin texto que indique claramente la intención del usuario.",
+    "regla_sugerida": "Ante emojis de aprobación aislados (como pulgares o dianas) que responden a una queja política, se debe priorizar la etiqueta de apoyo salvo que haya contexto explícito de burla."
+  },
+  "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::RELACION_PADRE": {
+    "clave": "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV::RELACION_PADRE",
+    "evidencia_original": "Los emojis de acierto (🎯) y aprobación (👍) confirman y validan la crítica que hace el comentario padre hacia la gestión política.",
+    "evidencia_alternativa": "Al no haber texto, es imposible asegurar si el usuario apoya el argumento o si está señalando irónicamente el tópico del comentario padre.",
+    "causa_posible": "Diferencia en la interpretación del nivel de interacción con el comentario padre cuando solo se usan elementos gráficos.",
+    "regla_sugerida": "Interpretar los símbolos de validación directa como acuerdo con el comentario padre a menos que el contenido previo del hilo demuestre confrontación."
+  },
+  "UgwJhXRJoOcgmKpX_VF4AaABAg::TONO": {
+    "clave": "UgwJhXRJoOcgmKpX_VF4AaABAg::TONO",
+    "evidencia_original": "La estructura de la pregunta retórica 'Si no se esconde nadie será legal no?' cuestiona una lógica evidente con un matiz de sarcasmo o crítica.",
+    "evidencia_alternativa": "El comentario puede leerse de manera literal como una duda genuina sobre la legalidad de una situación.",
+    "causa_posible": "Dificultad para discernir el matiz irónico en preguntas breves escritas en internet sin marcas paralingüísticas.",
+    "regla_sugerida": "Clasificar como irónico o sarcástico aquel comentario formulado como pregunta retórica obvia que busca evidenciar una contradicción."
+  },
+  "UgwJhXRJoOcgmKpX_VF4AaABAg::IRONIA": {
+    "clave": "UgwJhXRJoOcgmKpX_VF4AaABAg::IRONIA",
+    "evidencia_original": "La frase utiliza una obviedad en forma interrogativa para ironizar sobre la legalidad de un acto oculto.",
+    "evidencia_alternativa": "No contiene palabras explícitamente sarcásticas, por lo que podría tratarse de una consulta neutral.",
+    "causa_posible": "Criterios más estrictos sobre qué constituye ironía frente a una simple suposición o pregunta.",
+    "regla_sugerida": "Marcar como 'sí' en ironía cuando se empleen estructuras condicionales o interrogativas cuya respuesta evidente contradiga una norma o comportamiento social."
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbd66DknCJh::TONO": {
+    "clave": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbd66DknCJh::TONO",
+    "evidencia_original": "La frase 'Llámalo como te de la gana' y la acusación directa de quitarle la mitad del sueldo a alguien denotan indignación y enfado.",
+    "evidencia_alternativa": "El texto expone un argumento económico firme pero podría considerarse simplemente serio o crítico sin llegar a la furia.",
+    "causa_posible": "Subjetividad en el umbral para diferenciar un tono enfadado de uno meramente serio o confrontativo.",
+    "regla_sugerida": "Asignar tono enfadado cuando se utilicen expresiones coloquiales despectivas ('Llámalo como te de la gana') combinadas con acusaciones directas de perjuicio económico."
+  },
+  "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbfxocOW0uv::RELACION_PADRE": {
+    "clave": "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbfxocOW0uv::RELACION_PADRE",
+    "evidencia_original": "El comentario comienza diciendo 'entiendo, pero también es verdad', lo que introduce un matiz que contrasta parcialmente con la postura de alarma del padre.",
+    "evidencia_alternativa": "El texto desarrolla una argumentación propia sobre la inmigración y los votantes sin rebatir directamente la acusación personal del comentario padre.",
+    "causa_posible": "Ambigüedad sobre si una matización dialéctica constituye desacuerdo o un cambio de enfoque neutral.",
+    "regla_sugerida": "Clasificar como neutral cuando el comentario añade perspectiva sin contradecir frontalmente la premisa principal del padre."
+  },
+  "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbyZWwljgn::TONO": {
+    "clave": "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbyZWwljgn::TONO",
+    "evidencia_original": "Llamar 'bot' a alguien en medio de una discusión ideológica pesada puede interpretarse como un comentario despectivo con tinte humorístico o burlón.",
+    "evidencia_alternativa": "La frase es directa, concisa y se emite como un juicio tajante dentro de una confrontación seria.",
+    "causa_posible": "Diferencia en la interpretación del insulto o descalificación ligera como humor frente a la sobriedad de la discusión.",
+    "regla_sugerida": "Evaluar si la réplica busca generar comicidad o simplemente descalificar de forma directa; las descalificaciones secas son de tono serio."
+  },
+  "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbyZWwljgn::IRONIA": {
+    "clave": "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbyZWwljgn::IRONIA",
+    "evidencia_original": "Afirmar que el interlocutor 'es un bot' puede ser una exageración irónica para mofarse de su cabezonería argumental.",
+    "evidencia_alternativa": "No hay elementos lingüísticos claros de doble sentido o inversión de significado; puede ser una acusación literal de automatismo en redes.",
+    "causa_posible": "Confusión entre una hipérbole/burla informal y la verdadera ironía retórica.",
+    "regla_sugerida": "Requerir una inversión clara del sentido literal para etiquetar como irónico, evitando marcar como tal a los insultos o descalificaciones metafóricas."
+  },
+  "Ugwd5K1ei-7GKF1FjFV4AaABAg::TONO": {
+    "clave": "Ugwd5K1ei-7GKF1FjFV4AaABAg::TONO",
+    "evidencia_original": "El comentario plantea una hipótesis electoral de manera directa y objetiva, encajando en un tono neutro o informativo.",
+    "evidencia_alternativa": "El análisis político especulativo sobre pactos se realiza desde una postura analítica pero firme, lo que puede considerarse tono serio.",
+    "causa_posible": "Solapamiento conceptual entre las categorías de 'neutro' y 'serio' en comentarios de análisis político breve.",
+    "regla_sugerida": "Utilizar 'neutro' para afirmaciones puramente informativas y 'serio' para opiniones o análisis políticos formales."
+  },
+  "UgxCoVIU2Gt1AYnvGUN4AaABAg.Abbuiww3V3mAbc0tjCLrLo::RELACION_PADRE": {
+    "clave": "UgxCoVIU2Gt1AYnvGUN4AaABAg.Abbuiww3V3mAbc0tjCLrLo::RELACION_PADRE",
+    "evidencia_original": "El padre exige una moción de censura con urgencia y el hijo responde informando que 'ha disuelto las Cortes', invalidando la necesidad o posibilidad de dicha moción.",
+    "evidencia_alternativa": "El hijo aporta un dato sobre un hecho político posterior que invalida la propuesta del padre.",
+    "causa_posible": "Interpretar la aportación de un hecho que anula la propuesta anterior como desacuerdo con la petición planteada.",
+    "regla_sugerida": "Clasificar como desacuerdo cuando la respuesta aporta información que contradice la premisa, viabilidad o necesidad de lo expresado en el comentario padre."
+  },
+  "UgwIdiepUdmlD05aBIR4AaABAg.Abbp5XNeRieAbbphfKd0n0::RELACION_PADRE": {
+    "clave": "UgwIdiepUdmlD05aBIR4AaABAg.Abbp5XNeRieAbbphfKd0n0::RELACION_PADRE",
+    "evidencia_original": "El comentario 'Sí puede' responde directamente y de forma concisa a la negativa planteada en el padre sobre lo que no podrá aprobar una diputación permanente.",
+    "evidencia_alternativa": "La brevedad extrema de 'Sí puede' hace que la conexión con el contexto del padre sea ambigua sin una lectura más amplia.",
+    "causa_posible": "Diferencia en el umbral para considerar un fragmento como directamente relacionado con el argumento anterior.",
+    "regla_sugerida": "Clasificar como acuerdo si la respuesta aborda directamente la premisa del comentario padre, incluso si es extremadamente breve."
+  },
+  "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcVnD0c-c2::TONO": {
+    "clave": "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcVnD0c-c2::TONO",
+    "evidencia_original": "El texto argumenta con datos y postura firme sobre el mercado inmobiliario, lo que se alinea con un tono informativo y serio.",
+    "evidencia_alternativa": "El uso de expresiones como 'postureo gubernamental para analfabetos' muestra irritación y confrontación, propia del enfado.",
+    "causa_posible": "Ambigüedad entre la argumentación política formal y el descontento emocional expresado al final del texto.",
+    "regla_sugerida": "Si el comentario incluye insultos o descalificaciones explícitas, el tono predominante debe ser clasificado como enfadado."
+  },
+  "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcVnD0c-c2::IRONIA": {
+    "clave": "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcVnD0c-c2::IRONIA",
+    "evidencia_original": "El mensaje expone una queja directa y literal sobre la inaccesibilidad de la vivienda y la postura de la Unión Europea sin contradicciones aparentes.",
+    "evidencia_alternativa": "La frase final 'también debe de hacer \"postureo gubernamental para analfabetos\"' se usa de forma sarcástica para criticar las acciones del gobierno.",
+    "causa_posible": "Dificultad para determinar si el sarcasmo puntual en una frase descalificativa califica todo el comentario como irónico.",
+    "regla_sugerida": "Marcar ironía solo si el sentido global del texto invierte su significado literal, no por la presencia de frases sarcásticas aisladas."
+  },
+  "UgybGO2iA2_RYeSKR6l4AaABAg::TONO": {
+    "clave": "UgybGO2iA2_RYeSKR6l4AaABAg::TONO",
+    "evidencia_original": "El comentario plantea preguntas y busca aclaraciones sobre una situación política, manteniendo una postura expositiva.",
+    "evidencia_alternativa": "El emisor muestra una preocupación y un juicio de valor crítico sobre el control de votos, reflejando un tono serio.",
+    "causa_posible": "Superposición entre la categoría neutral (expositiva/interrogativa) y serio (opinión política firme).",
+    "regla_sugerida": "Clasificar como serio si el comentario debate un tema político complejo con postura crítica, reservando 'neutro' para consultas puramente informativas."
+  },
+  "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbtE5BWITr::IRONIA": {
+    "clave": "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbtE5BWITr::IRONIA",
+    "evidencia_original": "La frase 'Soy la lacra de este país' es una autoatribución exagerada y sarcástica frente a la acusación implícita de robar recursos.",
+    "evidencia_alternativa": "El comentario es un ataque directo y literal de enfado hacia la otra persona exigiéndole que trabaje.",
+    "causa_posible": "Confusión entre una afirmación hiperbólica irónica ('soy la lacra') y la literalidad del enfado en el resto del mensaje.",
+    "regla_sugerida": "Identificar ironía cuando hay inversión sarcástica evidente, especialmente en cierres de comentarios con autocríticas fingidas."
+  },
+  "UgyKja_6dsa397gau054AaABAg::TONO": {
+    "clave": "UgyKja_6dsa397gau054AaABAg::TONO",
+    "evidencia_original": "Mencionar un apodo despectivo ('DIRTY’ Sánchez') puede interpretarse como un ataque político serio y formal en el debate.",
+    "evidencia_alternativa": "El uso de un apodo en inglés en mayúsculas y entre comillas puede percibirse como una burla de tinte humorístico o caricaturesco.",
+    "causa_posible": "Ambigüedad sobre si el insulto político constituye una crítica seria o un chiste despectivo.",
+    "regla_sugerida": "Clasificar como humorístico solo si hay elementos claros de sátira o comedia, y como serio si predomina el ataque político directo."
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcFikbVivk::TONO": {
+    "clave": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcFikbVivk::TONO",
+    "evidencia_original": "La afirmación directa sobre corrupción ('robar como han hecho siempre') se expone como una constatación política seria.",
+    "evidencia_alternativa": "La acusación tajante de corrupción denota molestia e indignación hacia los partidos políticos.",
+    "causa_posible": "Confusión entre la gravedad de la acusación (serio) y la emoción subyacente de frustración (enfadado).",
+    "regla_sugerida": "Asignar 'enfadado' cuando el comentario exprese indignación o quejas airadas, reservando 'serio' para análisis neutrales."
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcFikbVivk::RELACION_PADRE": {
+    "clave": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcFikbVivk::RELACION_PADRE",
+    "evidencia_original": "El padre dice 'Miedo da que el PP no haga nada' y la respuesta afirma 'Sí va a hacer, robar', contradiciendo la premisa de que no harán nada.",
+    "evidencia_alternativa": "El padre teme la inacción y el hijo responde afirmando que sí actuarán, pero delinquiendo, lo cual valida parcialmente la preocupación sobre su gestión.",
+    "causa_posible": "Dificultad para determinar si corregir la acción esperada constituye una oposición (desacuerdo) o una refutación que comparte la preocupación general (acuerdo).",
+    "regla_sugerida": "Si el comentario rebate la expectativa planteada en el padre, debe considerarse desacuerdo aunque coincida en la crítica general."
+  },
+  "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbqpGOxnt2::IRONIA": {
+    "clave": "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbqpGOxnt2::IRONIA",
+    "evidencia_original": "La risa inicial ('jaja') seguida de la corrección implica mofa o burla hacia la afirmación del comentario padre.",
+    "evidencia_alternativa": "Es una corrección directa y literal donde se aclara que el partido mencionado no representa a la verdadera derecha.",
+    "causa_posible": "Interpretar la risa ('jaja') como un marcador automático de ironía en lugar de una simple expresión de desdén o risa literal.",
+    "regla_sugerida": "No etiquetar como irónico un comentario solo por incluir 'jaja' si el mensaje posterior es una corrección seria o directa."
+  },
+  "UgzW-qX6FlIOJkyawMx4AaABAg::TONO": {
+    "clave": "UgzW-qX6FlIOJkyawMx4AaABAg::TONO",
+    "evidencia_original": "Una pregunta directa sobre la dimisión de un político plantea una cuestión política planteada de forma sobria.",
+    "evidencia_alternativa": "Exigir la dimisión con la frase 'Porque no dimite y ya' refleja hartazgo, impaciencia y enfado con la situación.",
+    "causa_posible": "Diferencia de umbral para considerar una demanda política como una expresión de enfado o una pregunta seria.",
+    "regla_sugerida": "Clasificar como enfadado cuando se exijan dimisiones o se usen estructuras imperativas de reclamo ante una situación política."
+  },
+  "UgwhDIk4TbUecGyVYut4AaABAg::TONO": {
+    "clave": "UgwhDIk4TbUecGyVYut4AaABAg::TONO",
+    "evidencia_original": "El uso de correcciones técnicas ('Quise decir Diputación Permanente') mantiene un tono informativo y neutro.",
+    "evidencia_alternativa": "El uso del término despectivo 'Trilero' para referirse a un desliz o a sí mismo introduce un matiz informal o crítico.",
+    "causa_posible": "Ambigüedad entre la corrección formal de un error tipográfico y el uso de un insulto coloquial.",
+    "regla_sugerida": "Si un comentario corrige un error pero incluye insultos o descalificaciones, el tono debe clasificarse como enfadado o crítico en lugar de neutro."
+  },
+  "UgzTIspJEhjKnW2W5jZ4AaABAg::TONO": {
+    "clave": "UgzTIspJEhjKnW2W5jZ4AaABAg::TONO",
+    "evidencia_original": "El análisis sobre la 'inteligencia general del país' se expone como una observación sociopolítica seria.",
+    "evidencia_alternativa": "El uso de términos despectivos como 'sanguijuelas' y 'chiringuitos' denota indignación y molestia evidente.",
+    "causa_posible": "Diferencia en el umbral para distinguir entre una crítica política seria y una expresión de enfado o indignación.",
+    "regla_sugerida": "Clasificar como 'enfadado' cualquier comentario que utilice insultos directos o descalificaciones graves hacia grupos de personas."
+  },
+  "UgyV99Vyrel1Mzws7w94AaABAg.Abbrt-ShXXoAbcFhUcuoW_::TONO": {
+    "clave": "UgyV99Vyrel1Mzws7w94AaABAg.Abbrt-ShXXoAbcFhUcuoW_::TONO",
+    "evidencia_original": "La palabra 'ALucinante' en mayúsculas puede interpretarse como una expresión directa de sorpresa neutra ante un hecho.",
+    "evidencia_alternativa": "Al responder a un comentario anterior cargado de indignación sobre la 'desvergüenza', 'ALucinante' funciona como refuerzo de ese enfado.",
+    "causa_posible": "Evaluación aislada de una sola palabra frente al contexto de indignación del comentario padre.",
+    "regla_sugerida": "Al evaluar respuestas cortas, considerar el tono del comentario padre para determinar si la exclamación es de asombro neutro o de indignación compartida."
+  },
+  "UgxHfr4qk-mIUun3zOl4AaABAg.Abc5vomAOIvAbcE603cu7f::RELACION_PADRE": {
+    "clave": "UgxHfr4qk-mIUun3zOl4AaABAg.Abc5vomAOIvAbcE603cu7f::RELACION_PADRE",
+    "evidencia_original": "El comentario argumenta por qué la premisa del padre es incorrecta o ingenua ('nadie puede garantizar la limpieza...'), lo que constituye un desacuerdo.",
+    "evidencia_alternativa": "El uso de la pregunta retórica '¿con qué libertad va a votar un cubano?' busca cuestionar la lógica del padre mediante interrogantes.",
+    "causa_posible": "Solapamiento entre la función de refutar (desacuerdo) y el uso de preguntas retóricas para expresar dicho desacuerdo.",
+    "regla_sugerida": "Si una respuesta refuta directamente la afirmación del comentario padre mediante argumentos, la etiqueta principal debe ser 'desacuerdo' aunque incluya preguntas retóricas."
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbcM2Gvu1jj": {
+    "ID_COMENTARIO": "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbcM2Gvu1jj",
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Utiliza descalificaciones como 'decir tonterías' y 'la envidia te matará'."
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbd0oyeG14x": {
+    "ID_COMENTARIO": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbd0oyeG14x",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política sobre medios de comunicación y políticos sin llegar al insulto."
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbceQHXQtXC": {
+    "ID_COMENTARIO": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbceQHXQtXC",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión crítica sobre la situación del país expresada de manera coloquial."
+  },
+  "UgwdGmMl6BggpP7Nf9V4AaABAg": {
+    "ID_COMENTARIO": "UgwdGmMl6BggpP7Nf9V4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Expresión personal de insatisfacción política y deseo de emigrar."
+  },
+  "Ugyv8NFEvElXWwsKfqN4AaABAg": {
+    "ID_COMENTARIO": "Ugyv8NFEvElXWwsKfqN4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario crítico sobre supuestas irregularidades en el censo electoral."
+  },
+  "UgwwO_N-ftySxTtGxG54AaABAg": {
+    "ID_COMENTARIO": "UgwwO_N-ftySxTtGxG54AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Queja expresada con expletivos generales sin dirigirse a nadie en particular."
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbbr61d0DNz": {
+    "ID_COMENTARIO": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbbr61d0DNz",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política que expresa preocupación o temor hacia un partido."
+  },
+  "UgwoE10lgUYLpzJFDSV4AaABAg.AbbqryX9mzkAbcLTHtRiaD": {
+    "ID_COMENTARIO": "UgwoE10lgUYLpzJFDSV4AaABAg.AbbqryX9mzkAbcLTHtRiaD",
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Utiliza la descalificación 'un montón de mierda sin sentido' para referirse a la postura del interlocutor."
+  },
+  "UgzAOBG0XcehpMYIrUF4AaABAg": {
+    "ID_COMENTARIO": "UgzAOBG0XcehpMYIrUF4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica institucional e interpretación de acciones políticas con propuesta de cargos legales ('traición')."
+  },
+  "UgxQ5MNRaZSHMfcpfxt4AaABAg": {
+    "ID_COMENTARIO": "UgxQ5MNRaZSHMfcpfxt4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política en mayúsculas expresando teorías sobre fraude electoral."
+  },
+  "UgzQTXEDhRFWIbJjBSh4AaABAg": {
+    "ID_COMENTARIO": "UgzQTXEDhRFWIbJjBSh4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Ironía política sobre investigaciones judiciales y el ejercicio del poder."
+  },
+  "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbc_Ed0VSPj": {
+    "ID_COMENTARIO": "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbc_Ed0VSPj",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Reflexión sobre estrategias electorales y el uso del miedo en la política."
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVGh6vSca": {
+    "ID_COMENTARIO": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVGh6vSca",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario jocoso sobre el concepto de huelga."
+  },
+  "UgxOGdI-94tLHrVtGtV4AaABAg": {
+    "ID_COMENTARIO": "UgxOGdI-94tLHrVtGtV4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Propuesta de protesta pacífica mediante una acampada."
+  },
+  "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV": {
+    "ID_COMENTARIO": "Ugzh2tkt1HbyUrygcnJ4AaABAg.AbcW7QRkft_AbcepR7mQSV",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Emojis de aprobación en una discusión sobre política de vivienda e inmigración."
+  },
+  "UgwJhXRJoOcgmKpX_VF4AaABAg": {
+    "ID_COMENTARIO": "UgwJhXRJoOcgmKpX_VF4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Pregunta retórica sobre la legalidad de una acción."
+  },
+  "UgwPCNw0CasEX6KFFIV4AaABAg": {
+    "ID_COMENTARIO": "UgwPCNw0CasEX6KFFIV4AaABAg",
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Utiliza el término descalificativo 'canallas' para referirse a un político."
+  },
+  "UgwIVL3RBN6djiQVHSp4AaABAg": {
+    "ID_COMENTARIO": "UgwIVL3RBN6djiQVHSp4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica hiperbólica a una ley comparándola con un golpe de Estado."
+  },
+  "Ugxp_6F6TG3S3Cq61m14AaABAg.AbbrjwfXTEqAbc4fdfP2m1": {
+    "ID_COMENTARIO": "Ugxp_6F6TG3S3Cq61m14AaABAg.AbbrjwfXTEqAbc4fdfP2m1",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario sarcástico con risas sobre la situación del país."
+  },
+  "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbsqey634B": {
+    "ID_COMENTARIO": "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbsqey634B",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Expresión de disconformidad con decisiones políticas impuestas."
+  },
+  "UgyDsOXT0yfHXn7DXcp4AaABAg.Abbp58tLDSxAbbsF6oy3iB": {
+    "ID_COMENTARIO": "UgyDsOXT0yfHXn7DXcp4AaABAg.Abbp58tLDSxAbbsF6oy3iB",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política sobre las consecuencias de las políticas de vivienda sin insultos ni amenazas."
+  },
+  "Ugwd5K1ei-7GKF1FjFV4AaABAg": {
+    "ID_COMENTARIO": "Ugwd5K1ei-7GKF1FjFV4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario sobre pactos políticos y votaciones sin expresiones ofensivas."
+  },
+  "UgxCoVIU2Gt1AYnvGUN4AaABAg.Abbuiww3V3mAbcDHhlzH8e": {
+    "ID_COMENTARIO": "UgxCoVIU2Gt1AYnvGUN4AaABAg.Abbuiww3V3mAbcDHhlzH8e",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso de emojis de risa y una pregunta retórica expresando incredulidad."
+  },
+  "UgwzyGQsqeKz-at8b5R4AaABAg": {
+    "ID_COMENTARIO": "UgwzyGQsqeKz-at8b5R4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica ideológica al neoliberalismo y la gestión del alquiler, sin lenguaje ofensivo."
+  },
+  "UgyfQEkOnO6iOgumxXV4AaABAg": {
+    "ID_COMENTARIO": "UgyfQEkOnO6iOgumxXV4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Expresión coloquial de fastidio o aburrimiento ante un comentario anterior, sin constituir un insulto grave."
+  },
+  "UgwIdiepUdmlD05aBIR4AaABAg.Abbp5XNeRieAbbr-SyKo-R": {
+    "ID_COMENTARIO": "UgwIdiepUdmlD05aBIR4AaABAg.Abbp5XNeRieAbbr-SyKo-R",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Breve opinión discrepante en un debate político."
+  },
+  "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcWROuwqL0": {
+    "ID_COMENTARIO": "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcWROuwqL0",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Discusión sobre economía y oferta de vivienda sin descalificaciones personales."
+  },
+  "UgxQ6hbx0WQO98w4uQp4AaABAg": {
+    "ID_COMENTARIO": "UgxQ6hbx0WQO98w4uQp4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comparación de la situación política con series de televisión para expresar asombro."
+  },
+  "UgybGO2iA2_RYeSKR6l4AaABAg": {
+    "ID_COMENTARIO": "UgybGO2iA2_RYeSKR6l4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Pregunta y reflexión sobre la ley de nietos y el control del voto extranjero sin infringir normas."
+  },
+  "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbtE5BWITr": {
+    "ID_COMENTARIO": "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbtE5BWITr",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica dura hacia los impuestos y la clase política, usando expresiones metafóricas pero sin constituir amenaza."
+  },
+  "UgyEXSwyZ5qP2eo8w014AaABAg": {
+    "ID_COMENTARIO": "UgyEXSwyZ5qP2eo8w014AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política utilizando una hipérbole comparativa habitual."
+  },
+  "UgyKja_6dsa397gau054AaABAg": {
+    "ID_COMENTARIO": "UgyKja_6dsa397gau054AaABAg",
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso de un apodo descalificativo ('DIRTY') dirigido a un político."
+  },
+  "UgzDYsmsjXVi0PP6Ru14AaABAg.AbbtCdDzXXOAbc8cdIcQr3": {
+    "ID_COMENTARIO": "UgzDYsmsjXVi0PP6Ru14AaABAg.AbbtCdDzXXOAbc8cdIcQr3",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión sobre una huelga general y el discurso político asociado."
+  },
+  "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbqpGOxnt2": {
+    "ID_COMENTARIO": "UgyByd6H0C_Cb30QDBp4AaABAg.AbboewRp3cLAbbqpGOxnt2",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Aclaración sobre un partido político extranjero en un debate."
+  },
+  "UgzW-qX6FlIOJkyawMx4AaABAg": {
+    "ID_COMENTARIO": "UgzW-qX6FlIOJkyawMx4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Petición común de dimisión dirigida a un gobernante."
+  },
+  "UgwhDIk4TbUecGyVYut4AaABAg": {
+    "ID_COMENTARIO": "UgwhDIk4TbUecGyVYut4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Corrección de un término empleado en un comentario previo."
+  },
+  "UgzJHUlkXNFRNEjViNx4AaABAg": {
+    "ID_COMENTARIO": "UgzJHUlkXNFRNEjViNx4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario sobre la participación de una figura pública en las elecciones."
+  },
+  "Ugy3f5TDTwoD66xMlv14AaABAg.AbbrdqrRGSGAbc54w_c_cr": {
+    "ID_COMENTARIO": "Ugy3f5TDTwoD66xMlv14AaABAg.AbbrdqrRGSGAbc54w_c_cr",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica a la postura política de un inmigrante, aunque fronteriza con la xenofobia, se centra en el debate sobre la participación electoral de extranjeros sin constituir discriminación protegida explícita."
+  },
+  "UgzTIspJEhjKnW2W5jZ4AaABAg": {
+    "ID_COMENTARIO": "UgzTIspJEhjKnW2W5jZ4AaABAg",
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso del término despectivo 'sanguijuelas' aplicado a un sector de la población."
+  },
+  "Ugwl70WBUlVgcWLvrdF4AaABAg": {
+    "ID_COMENTARIO": "Ugwl70WBUlVgcWLvrdF4AaABAg",
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Manifestación de hartazgo político sin insultos directos."
+  },
+  "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbwBTjd-s9": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso de la expresión 'jeta' como crítica general hacia los propietarios, pero no constituye un insulto grave ni una amenaza.",
+    "ID_COMENTARIO": "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbwBTjd-s9"
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcKH_7kG30": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario personal sobre experiencia laboral sin contenido ofensivo.",
+    "ID_COMENTARIO": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcKH_7kG30"
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión sobre la insuficiencia de las huelgas sin elementos violentos.",
+    "ID_COMENTARIO": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7"
+  },
+  "UgzQIKPLSDeiC-qYBKl4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario especulativo sobre la situación política y la pérdida de apoyo electoral.",
+    "ID_COMENTARIO": "UgzQIKPLSDeiC-qYBKl4AaABAg"
+  },
+  "UgxF1Ux75pNFLWsdzSd4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política dirigida a la oposición.",
+    "ID_COMENTARIO": "UgxF1Ux75pNFLWsdzSd4AaABAg"
+  },
+  "UgwoE10lgUYLpzJFDSV4AaABAg.AbbqryX9mzkAbcEIUCh3pD": {
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Califica a un sector político como 'la peor escoria política', lo cual constituye una descalificación ofensiva.",
+    "ID_COMENTARIO": "UgwoE10lgUYLpzJFDSV4AaABAg.AbbqryX9mzkAbcEIUCh3pD"
+  },
+  "UgyZOZAdO92lsOFC2fd4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política general hacia la ideología de izquierdas.",
+    "ID_COMENTARIO": "UgyZOZAdO92lsOFC2fd4AaABAg"
+  },
+  "UgxBl0hnFVK6GUIsfdd4AaABAg.Abbr3NCnD1aAbbu868yKRX": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica a las políticas económicas y de vivienda, sin insultos directos.",
+    "ID_COMENTARIO": "UgxBl0hnFVK6GUIsfdd4AaABAg.Abbr3NCnD1aAbbu868yKRX"
+  },
+  "UgxVfe1PratGvoSFAtd4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso de un emoji de espada de forma metafórica sobre la inacción política, sin constituir violencia real.",
+    "ID_COMENTARIO": "UgxVfe1PratGvoSFAtd4AaABAg"
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbd66DknCJh": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Discusión sobre fiscalidad e impuestos en el mercado de la vivienda.",
+    "ID_COMENTARIO": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbd66DknCJh"
+  },
+  "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbfxocOW0uv": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión sobre inmigración legal e ilegal dentro de un debate político.",
+    "ID_COMENTARIO": "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbfxocOW0uv"
+  },
+  "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbyZWwljgn": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica a la postura de otro usuario en un debate.",
+    "ID_COMENTARIO": "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbyZWwljgn"
+  },
+  "UgxCoVIU2Gt1AYnvGUN4AaABAg.Abbuiww3V3mAbc0tjCLrLo": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario sobre procedimientos institucionales (moción de censura y Cortes).",
+    "ID_COMENTARIO": "UgxCoVIU2Gt1AYnvGUN4AaABAg.Abbuiww3V3mAbc0tjCLrLo"
+  },
+  "UgwIdiepUdmlD05aBIR4AaABAg.Abbp5XNeRieAbbphfKd0n0": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Aclaración sobre normativa parlamentaria.",
+    "ID_COMENTARIO": "UgwIdiepUdmlD05aBIR4AaABAg.Abbp5XNeRieAbbphfKd0n0"
+  },
+  "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcVnD0c-c2": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso de la palabra 'buitre' en el contexto del mercado inmobiliario y debate sobre vivienda.",
+    "ID_COMENTARIO": "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcVnD0c-c2"
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcFikbVivk": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Acusación de corrupción generalizada hacia actores políticos.",
+    "ID_COMENTARIO": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcFikbVivk"
+  },
+  "UgyRet9swwSmmInF8Kd4AaABAg.Abbs2zwaFobAbbzvIhyVNf": {
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso del término en mayúsculas 'JETA' dirigido a descalificar a otra persona.",
+    "ID_COMENTARIO": "UgyRet9swwSmmInF8Kd4AaABAg.Abbs2zwaFobAbbzvIhyVNf"
+  },
+  "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbyDZaOsMB": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica de índole económica y política sobre el modelo liberal y las condiciones laborales.",
+    "ID_COMENTARIO": "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbyDZaOsMB"
+  },
+  "UgxBl0hnFVK6GUIsfdd4AaABAg.Abbr3NCnD1aAbbzZul_-8g": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Pregunta neutral en respuesta a una provocación sobre política y alquileres.",
+    "ID_COMENTARIO": "UgxBl0hnFVK6GUIsfdd4AaABAg.Abbr3NCnD1aAbbzZul_-8g"
+  },
+  "UgyFhJccgblQEq_ImtB4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Uso de una frase hecha coloquial ('escupir hacia arriba') orientada a la crítica electoral.",
+    "ID_COMENTARIO": "UgyFhJccgblQEq_ImtB4AaABAg"
+  },
+  "UgzFugYiibOZ3mNS21p4AaABAg.AbbxEAyDO4MAbc5sx4dXtj": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión irónica sobre un concepto ideológico, sin constituir un insulto personal.",
+    "ID_COMENTARIO": "UgzFugYiibOZ3mNS21p4AaABAg.AbbxEAyDO4MAbc5sx4dXtj"
+  },
+  "Ugz6nOHkFe4BxMZWkQF4AaABAg.AbbqV8rqtIuAbbseHB-Pap": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Deseo desfavorable en el contexto de un debate político, sin constituir una amenaza real o agresión física.",
+    "ID_COMENTARIO": "Ugz6nOHkFe4BxMZWkQF4AaABAg.AbbqV8rqtIuAbbseHB-Pap"
+  },
+  "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbtsjdSCnS": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica dialéctica descalificando los argumentos del oponente ('ciego' usado metafóricamente en debate político).",
+    "ID_COMENTARIO": "UgyYtuxQta4_CpWdsMp4AaABAg.AbbqQgAI_PnAbbtsjdSCnS"
+  },
+  "Ugxp_6F6TG3S3Cq61m14AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política sobre la situación del país y la gestión gubernamental.",
+    "ID_COMENTARIO": "Ugxp_6F6TG3S3Cq61m14AaABAg"
+  },
+  "UgxCoVIU2Gt1AYnvGUN4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Exclamación de exigencia política institucional.",
+    "ID_COMENTARIO": "UgxCoVIU2Gt1AYnvGUN4AaABAg"
+  },
+  "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcT-E3ANBX": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Argumentación económica extensa sobre vivienda y control de precios, con uso de tono colloquial ('analfabetos' referido a planteamientos gubernamentales, no al usuario directamente).",
+    "ID_COMENTARIO": "UgxQlAm7wB9Z2jUkUB14AaABAg.Abbs2JDPf9bAbcT-E3ANBX"
+  },
+  "UgyxfDKeoXNiqXqK1A94AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario de análisis electoral sobre las expectativas del partido gobernante.",
+    "ID_COMENTARIO": "UgyxfDKeoXNiqXqK1A94AaABAg"
+  },
+  "UgyRet9swwSmmInF8Kd4AaABAg.Abbs2zwaFobAbcsJ3I3MRh": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Expresión de desagrado ante supuestas irregularidades electorales, sin contener insultos directos a personas.",
+    "ID_COMENTARIO": "UgyRet9swwSmmInF8Kd4AaABAg.Abbs2zwaFobAbcsJ3I3MRh"
+  },
+  "UgyUqbX9B3YNuJqvvGV4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario positivo sin contenido ofensivo.",
+    "ID_COMENTARIO": "UgyUqbX9B3YNuJqvvGV4AaABAg"
+  },
+  "UgxKpZ33rjw9X5GcRW94AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política que utiliza el término dictador en sentido retórico.",
+    "ID_COMENTARIO": "UgxKpZ33rjw9X5GcRW94AaABAg"
+  },
+  "UgwK_fADXGOV4Gn2pqp4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política general sobre el gobierno.",
+    "ID_COMENTARIO": "UgwK_fADXGOV4Gn2pqp4AaABAg"
+  },
+  "UgzaJCoGU5MhrFgwFRR4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión sobre medidas políticas y económicas.",
+    "ID_COMENTARIO": "UgzaJCoGU5MhrFgwFRR4AaABAg"
+  },
+  "UgzNm2L67fQaLXNk0l54AaABAg.AbbqI7IF88RAbcvPC6a7eI": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Debate político sobre la responsabilidad del gobierno y la oposición.",
+    "ID_COMENTARIO": "UgzNm2L67fQaLXNk0l54AaABAg.AbbqI7IF88RAbcvPC6a7eI"
+  },
+  "UgyQEW5nffbvv1GTDJN4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica sobre procedimientos legislativos.",
+    "ID_COMENTARIO": "UgyQEW5nffbvv1GTDJN4AaABAg"
+  },
+  "Ugwmz3SF4Tjo4Kdnlt14AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Mención a la segunda enmienda constitucional de EE.UU. en un contexto de opinión política, sin constituir una amenaza explícita.",
+    "ID_COMENTARIO": "Ugwmz3SF4Tjo4Kdnlt14AaABAg"
+  },
+  "UgwR1eFqEBqK2TLnH8p4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Expresión de indignación política.",
+    "ID_COMENTARIO": "UgwR1eFqEBqK2TLnH8p4AaABAg"
+  },
+  "Ugy5jFMfG-8jjMqmMKF4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión sobre la motivación de un adelanto electoral.",
+    "ID_COMENTARIO": "Ugy5jFMfG-8jjMqmMKF4AaABAg"
+  },
+  "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbc0UAG9Iki": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Expresión de temor hacia una ideología política.",
+    "ID_COMENTARIO": "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbc0UAG9Iki"
+  },
+  "Ugx41RStIIKJ61DXLe94AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Calificación negativa hacia un partido político.",
+    "ID_COMENTARIO": "Ugx41RStIIKJ61DXLe94AaABAg"
+  },
+  "UgzPTea-rjBo_UHNk7V4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica institucional que menciona el término histórico 'harakiri' de forma metafórica.",
+    "ID_COMENTARIO": "UgzPTea-rjBo_UHNk7V4AaABAg"
+  },
+  "UgwDcKdTh6xI96Vm6s94AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Etiquetado de la línea editorial de un canal.",
+    "ID_COMENTARIO": "UgwDcKdTh6xI96Vm6s94AaABAg"
+  },
+  "UgwcRxwXjyOG942KNvl4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política con tono sarcástico.",
+    "ID_COMENTARIO": "UgwcRxwXjyOG942KNvl4AaABAg"
+  },
+  "UgxBuTuOW2iqBdUnAHx4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario crítico sobre propaganda política.",
+    "ID_COMENTARIO": "UgxBuTuOW2iqBdUnAHx4AaABAg"
+  },
+  "Ugy_abf1TfeZm16ATzp4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica dirigida a una figura pública y su estrategia electoral.",
+    "ID_COMENTARIO": "Ugy_abf1TfeZm16ATzp4AaABAg"
+  },
+  "Ugxk6jrfwhcXwPgMC354AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comparación política internacional.",
+    "ID_COMENTARIO": "Ugxk6jrfwhcXwPgMC354AaABAg"
+  },
+  "Ugxp_6F6TG3S3Cq61m14AaABAg.AbbrjwfXTEqAbcSAwHGZ9U": {
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Descalificación directa al nivel intelectual del interlocutor ('problemas de comprensión deben de ser muy preocupantes').",
+    "ID_COMENTARIO": "Ugxp_6F6TG3S3Cq61m14AaABAg.AbbrjwfXTEqAbcSAwHGZ9U"
+  },
+  "Ugx5l_7iQ7htY-xY2al4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Argumentación sobre procesos electorales y voto por correo.",
+    "ID_COMENTARIO": "Ugx5l_7iQ7htY-xY2al4AaABAg"
+  },
+  "UgxDyFmW-6ErGOvGy3l4AaABAg": {
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Contiene un insulto despectivo hacia los destinatarios ('come carne').",
+    "ID_COMENTARIO": "UgxDyFmW-6ErGOvGy3l4AaABAg"
+  },
+  "UgwXdvspIbs7q8HPXIJ4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario expresando preocupación o incertidumbre sin contenido ofensivo ni violento.",
+    "ID_COMENTARIO": "UgwXdvspIbs7q8HPXIJ4AaABAg"
+  },
+  "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbertUkA06b": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión sobre estrategia política y electoral.",
+    "ID_COMENTARIO": "Ugzi2V_jYMLgCb47BGt4AaABAg.AbbrbrmgCqiAbertUkA06b"
+  },
+  "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcBHAbjZQn": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "Si",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Menciona la existencia de peleas y violencia política de manera general y descriptiva, sin constituir amenaza directa.",
+    "ID_COMENTARIO": "UgyYacspA5qBYTAFLHF4AaABAg.AbborOxK_JrAbcBHAbjZQn"
+  },
+  "UgxBl0hnFVK6GUIsfdd4AaABAg.Abbr3NCnD1aAbbtl6Kie4H": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica sobre políticas de vivienda y gestión gubernamental.",
+    "ID_COMENTARIO": "UgxBl0hnFVK6GUIsfdd4AaABAg.Abbr3NCnD1aAbbtl6Kie4H"
+  },
+  "Ugw3soaI_csoMd55yOt4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica general a la constitución y a la clase política.",
+    "ID_COMENTARIO": "Ugw3soaI_csoMd55yOt4AaABAg"
+  },
+  "Ugw4OwQPFfuZ4MKFnFR4AaABAg": {
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "Si",
+    "POSIBLE_AMENAZA": "Si",
+    "EXPLICACION": "Utiliza un apodo despectivo ('Perro') y una metáfora de muerte combinada con fuego que puede interpretarse como un deseo de daño físico o amenaza.",
+    "ID_COMENTARIO": "Ugw4OwQPFfuZ4MKFnFR4AaABAg"
+  },
+  "UgyvIrX-nm_bdhPDDhR4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "Dudoso",
+    "POSIBLE_AMENAZA": "Dudoso",
+    "EXPLICACION": "Referencia indirecta y ambigua a una dictadura pasada (Paquito), sin una amenaza explícita pero con connotaciones políticas autoritarias.",
+    "ID_COMENTARIO": "UgyvIrX-nm_bdhPDDhR4AaABAg"
+  },
+  "UgwrwZFnQGzfpTYH5o14AaABAg": {
+    "INSULTO": "Si",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Utiliza el término despectivo 'payazote' dirigido a una persona.",
+    "ID_COMENTARIO": "UgwrwZFnQGzfpTYH5o14AaABAg"
+  },
+  "Ugz2Jv8Rs7iwYmb79aB4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Usa una metáfora deportiva para sugerir mayor participación política.",
+    "ID_COMENTARIO": "Ugz2Jv8Rs7iwYmb79aB4AaABAg"
+  },
+  "UgzUrPc-t2Pn_bSp1IF4AaABAg.AbcUprD2TSvAbcXTvBhZRO": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "Si",
+    "POSIBLE_AMENAZA": "Si",
+    "EXPLICACION": "Hace referencia a la ejecución del matrimonio Ceaușescu como forma de justicia, lo cual constituye una alusión explícita a la violencia grave y una amenaza implícita.",
+    "ID_COMENTARIO": "UgzUrPc-t2Pn_bSp1IF4AaABAg.AbcUprD2TSvAbcXTvBhZRO"
+  },
+  "Ugxzq-3Gs0zL5fXEBWd4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Opinión sobre procedimientos parlamentarios.",
+    "ID_COMENTARIO": "Ugxzq-3Gs0zL5fXEBWd4AaABAg"
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcnNs9uKbG": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Comentario personal sobre preferencias de lugares o participación en actividades.",
+    "ID_COMENTARIO": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcnNs9uKbG"
+  },
+  "UgyV99Vyrel1Mzws7w94AaABAg.Abbrt-ShXXoAbezkV5jsBn": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Análisis y crítica técnica sobre el uso de decretos-leyes.",
+    "ID_COMENTARIO": "UgyV99Vyrel1Mzws7w94AaABAg.Abbrt-ShXXoAbezkV5jsBn"
+  },
+  "Ugy5OOV4uTyhLuGfzHd4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Pregunta con dudas sobre la aplicación de normas de vivienda.",
+    "ID_COMENTARIO": "Ugy5OOV4uTyhLuGfzHd4AaABAg"
+  },
+  "Ugx2klb0ZqiwHIu7oDF4AaABAg": {
+    "INSULTO": "No",
+    "DISCRIMINACION": "No",
+    "REFERENCIA_VIOLENCIA": "No",
+    "POSIBLE_AMENAZA": "No",
+    "EXPLICACION": "Crítica política irónica sobre la responsabilidad en el problema de la vivienda.",
+    "ID_COMENTARIO": "Ugx2klb0ZqiwHIu7oDF4AaABAg"
+  }
+}

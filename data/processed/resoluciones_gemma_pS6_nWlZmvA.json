@@ -1,0 +1,36 @@
+{
+  "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbwBTjd-s9": {
+    "ID_COMENTARIO": "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbwBTjd-s9",
+    "MODELO_ARBITRO": "dots-studio/dots-3-note-preview:free",
+    "CONFLICTOS": {
+      "RELACION_PADRE": {
+        "gemini": "acuerdo",
+        "nemotron": "desacuerdo"
+      }
+    },
+    "DECISIONES": [
+      {
+        "campo": "RELACION_PADRE",
+        "eleccion": "gemini",
+        "motivo": "El comentario del usuario critica la situación económica y laboral que motiva la huelga, alineándose con la sorpresa y crítica del padre sobre la huelga general en España, por lo que hay acuerdo en el tono y tema general, a pesar de diferencias en el enfoque."
+      }
+    ]
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7": {
+    "ID_COMENTARIO": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7",
+    "MODELO_ARBITRO": "dots-studio/dots-3-note-preview:free",
+    "CONFLICTOS": {
+      "TONO": {
+        "gemini": "serio",
+        "nemotron": "enfadado"
+      }
+    },
+    "DECISIONES": [
+      {
+        "campo": "TONO",
+        "eleccion": "gemini",
+        "motivo": "El comentario expresa una crítica social seria y reflexiva sobre la insuficiencia de las huelgas, sin signos de enojo explícito, insultos o lenguaje agresivo. El tono es de crítica argumentada, no de enfado."
+      }
+    ]
+  }
+}

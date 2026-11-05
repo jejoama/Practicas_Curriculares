@@ -1,0 +1,9 @@
+{
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7::TONO": {
+    "clave": "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7::TONO",
+    "evidencia": "Las  huelgas ,no son suficientes ...",
+    "argumento_original": "Gemini clasifica el tono como 'serio' porque el usuario expresa una opinión política de manera directa y sobria, sin exclamaciones de ira extrema ni insultos explícitos.",
+    "argumento_alternativo": "Nemotron interpreta que la insuficiencia de las huelgas y el contexto de disconformidad política general denotan frustración o enfado con la situación descrita.",
+    "regla_sugerida": "Para diferenciar un tono 'serio' de uno 'enfadado', se debe buscar la presencia de un descontento activo o exigencia de acción drástica; la declaración de que medidas actuales 'no son suficientes' apunta hacia la insatisfacción y el enfado leve."
+  }
+}

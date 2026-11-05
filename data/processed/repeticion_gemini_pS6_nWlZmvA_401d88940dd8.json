@@ -1,0 +1,20 @@
+{
+  "UgzyTKbyj4RIY7mzgJt4AaABAg.AbbsVNj5NHYAbbwBTjd-s9": {
+    "TONO": "enfadado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "ninguna",
+    "RELACION_PADRE": "respuesta crítica al comentario padre sobre la situación política"
+  },
+  "UgxHPbKf_PUbH0Aq2fp4AaABAg.AbbqQFKLwDHAbcVW72U3X7": {
+    "TONO": "crítico",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "ninguna",
+    "RELACION_PADRE": "aporta una opinión adicional sobre la efectividad de las huelgas mencionadas"
+  },
+  "UgwdGmMl6BggpP7Nf9V4AaABAg": {
+    "TONO": "frustrado",
+    "IRONIA": "no",
+    "FUNCION_EMOJIS": "ninguna",
+    "RELACION_PADRE": "comentario independiente"
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "UgzPKd3vCdNUzTQEQcx4AaABAg": {
+    "HUELLA": "ef4f15da3bbc6b5917e13700a8dac47a357fce249ba430335d287d2c8e9b12a1",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "humoristico",
+        "JUSTIFICACION": "Uso de emojis de risa indica intención cómica o burla."
+      },
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Contraste entre la afirmación y el uso de risas sugiere burla irónica."
+      }
+    }
+  },
+  "UgzWXXqszHa9i-Ymxo54AaABAg": {
+    "HUELLA": "bcd00dbc6b6e80f46c9cc668eb7c77eacb579b95f465b1770720fefb2a8b7d06",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Expresa opiniones directas y críticas sin contraste literal-implícito."
+      }
+    }
+  },
+  "Ugzm_2dChgK_tVB1pj54AaABAg": {
+    "HUELLA": "96e1306635c8db0a9cde8030d82896fb94aa3cda7363d2cab344af1f94f800e9",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión política directa sin indicios de humor o enfado."
+      }
+    }
+  },
+  "UgztrnN2MpEF8YdgAFh4AaABAg": {
+    "HUELLA": "2a7f9557dcf783815bf2119d61cce9c65d118e76dbe47758e96176a25c7167e1",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Propone una idea de manera directa y factual."
+      },
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Sugiere una solución absurda o dañina como 'ayuda', indicando ironía."
+      }
+    }
+  },
+  "UgwYwsSj-oqhV8itwBV4AaABAg": {
+    "HUELLA": "8e0a8dafee470a55e2942b5461c78a86d848c75e4781582f31f8fedb7b07903f",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una emoción de miedo de forma concisa y directa."
+      }
+    }
+  },
+  "UgzXQ2fkl4mRjckJaPl4AaABAg": {
+    "HUELLA": "7a3f402046ff9dbac08db24fd1aca0f229ba74f87b71ce85a1ff1732d7962b14",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión crítica y política sin mostrar enfado explícito o hostilidad directa."
+      }
+    }
+  },
+  "UgwGtBk3t3p9hIBaXdR4AaABAg": {
+    "HUELLA": "f0f54fb080d336de8e89f0841e6d0b0f43ec6fb9915c18e0493ff45a3fcbb67e",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Plantea una pregunta retórica o crítica sobre legitimidad sin manifestar indignación o hostilidad clara."
+      }
+    }
+  },
+  "UgyD3j_qIGJjlpG5Zl54AaABAg": {
+    "HUELLA": "70e2387dd2aa1b3654a5add9e78397bba6033bca25d93ffc031cae33a4b72843",
+    "REVISIONES": {
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "otro",
+        "JUSTIFICACION": "El emoji de náuseas ilustra repulsión y desprecio hacia la persona mencionada, reforzando la crítica."
+      }
+    }
+  },
+  "UgyVIuOQQAA-mkaoaOx4AaABAg": {
+    "HUELLA": "6f7628b9b69c9046f561909b3eccc445c74dab4bcb218745b6fe0767db9d200a",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa gratitud de manera formal y directa, sin elementos de humor, ironía o enfado."
+      }
+    }
+  },
+  "Ugzj0QnYLDcDxQ081Q54AaABAg": {
+    "HUELLA": "85112b8dcd3079b4b63dd62322790f94743d751c797853a88b19d228d5d9d50e",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "El uso de 'es mundial' y el emoji de risa sugieren que el comentario es sarcástico o burlón."
+      }
+    }
+  },
+  "UgzxKSGQJ0n64nDRnHN4AaABAg": {
+    "HUELLA": "15a4f1e78058af452a38e1072196176474e1f17763e3deeccc82ba5f726e7f0e",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa crítica política con indignación pero sin lenguaje explícitamente hostil o grosero."
+      },
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Usa sarcasmo final ('Pais desarrollado. Primer mundo') para contrastar con la realidad descrita."
+      }
+    }
+  },
+  "Ugz8z1eQaYfcFosAnR94AaABAg": {
+    "HUELLA": "6d5ca0f2eabbad667c7a5a78dc69d69c4b7653eb60d45ac0bbaeed729895d420",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Plantea una opinión política directa sobre impuestos y voto sin elementos irónicos o humorísticos."
+      }
+    }
+  },
+  "Ugz9u8a2fvtfD4fP2Ih4AaABAg": {
+    "HUELLA": "3002002cdfc6c9226bbcf0a7a17bc6073ced6ba6e7e1956bc29808d46bf051b2",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Formula una pregunta retórica directa y confrontacional sin tono humorístico ni irónico evidente."
+      }
+    }
+  },
+  "Ugxl1hB9U24idEXrde14AaABAg": {
+    "HUELLA": "ac867183687c774b2bc165f88989d945098c89c85dec08ee2c05bdbd5b61b970",
+    "REVISIONES": {
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "burla",
+        "JUSTIFICACION": "Los emojis demoníacos y de llanto refuerzan el insulto 'sinverguenzas' y la burla hacia los sindicatos."
+      }
+    }
+  },
+  "UgzcXauYepB-oAaDIXB4AaABAg": {
+    "HUELLA": "4d3a0e6dcd90d984cae47947a4c3481362c8f4e3ecf02cf306f2ab4529513428",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "ironico",
+        "JUSTIFICACION": "Usa sarcasmo ('Es que además de guapo, es bueno') para criticar la defensa del presidente."
+      }
+    }
+  },
+  "Ugx7tUPGuMw0J8vRqkJ4AaABAg": {
+    "HUELLA": "327c740802b42534db9d4b20d1d04c6a69b8822f53c47b8e99a0fcb36d7d4409",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "La frase 'el chupete encima de la mesa' es una metáfora irónica para referirse a la falta de madurez o claridad del interlocutor."
+      }
+    }
+  },
+  "UgxyO_Bjnt3wzvDByeh4AaABAg": {
+    "HUELLA": "3d59f737847b9bf4c414d12c62732dd920f6ebe173c1054c8b5bbcf429ad04e6",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión política directa y crítica sin elementos de humor o ironía evidente, aunque usa insultos."
+      }
+    }
+  },
+  "Ugwxa1es2ZQJZBgJzvx4AaABAg": {
+    "HUELLA": "65fa2be91f606706e8227ef11bc76db969b3f9b665772f91ac23bb015f3c15e8",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Compara la situación real con una serie de ficción ('Aquí no hay quien viva') de forma irónica para destacar el caos."
+      }
+    }
+  },
+  "UgxE6deEbQke1sCpxEZ4AaABAg": {
+    "HUELLA": "48b3710ac3cb58e4449deaf9d5f5fd481fc443adab9119b1e1934b6eca21e9fc",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Crítica política directa sobre la capacidad de superación del país, sin intención cómica ni neutralidad."
+      },
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Usa la palabra 'estupidez' para describir una 'muestra' de capacidad, creando un contraste irónico entre el objetivo y el resultado."
+      }
+    }
+  },
+  "UgxN6zIOB0MTThGnszB4AaABAg": {
+    "HUELLA": "1e53f93d5c389f848169c3449ed489277ba3934ca995c57309f9f0eb3f2372c2",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Análisis político crítico y acusatorio sin elementos de humor, ironía o neutralidad descriptiva."
+      }
+    }
+  },
+  "UgwEBiBp0Us2U7XY9nR4AaABAg": {
+    "HUELLA": "aecd3c87f251d6f5ce6d86792304835177f3cd2801285356ca550ce1a5c57fbb",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Afirmación factual sobre una medida legal sin indicios de enfado."
+      }
+    }
+  },
+  "UgwD6jtpRpCVgmePr6h4AaABAg": {
+    "HUELLA": "199428fc8bf75ca5100b97cf8dce9f5963b83d4fcf2a637acd3ce3a776b1b082",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Pregunta retórica sobre consecuencias políticas sin hostilidad clara."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Interrogante directo sobre apoyo electoral, sin contraste literal/implícito."
+      }
+    }
+  },
+  "UgweTjOrfvmV9hGopBp4AaABAg": {
+    "HUELLA": "8a88795fd46af7ccef40eefa8c960aa4771680dfe43e04bda663b206e5432011",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Opinión crítica expresada con lenguaje fuerte pero sin hostilidad explícita."
+      }
+    }
+  },
+  "Ugym2zdoe-aNwplAlLl4AaABAg": {
+    "HUELLA": "7f229706d2519953d8b6822388de067b511bee02339264aeb88b63b638c7bf5d",
+    "REVISIONES": {
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "otro",
+        "JUSTIFICACION": "El emoji de sorpresa enfatiza la incredulidad ante la situación descrita."
+      }
+    }
+  },
+  "UgwLQRDXWbRDaEpnuBR4AaABAg": {
+    "HUELLA": "907556c9119d9bc7050caf853b9d53047c2e6bdf498a456ac83f80a817fa9a36",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Hipótesis especulativa sobre un evento médico/político sin tono burlón."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Sugerencia directa de resolución, sin indicio de intención irónica."
+      }
+    }
+  },
+  "Ugy9sU9I1W-1IGwKjtp4AaABAg": {
+    "HUELLA": "62c9bfbf39ddcac9454da9ca7e0a28a190236b6dcb05075c8e4bbabb750608f0",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Opinión crítica sin hostilidad explícita, aunque usa lenguaje soez."
+      },
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Cuestiona la calidad de la democracia al señalar su uso por el político."
+      }
+    }
+  },
+  "UgwVRCC9vKt8AqnxTmx4AaABAg": {
+    "HUELLA": "68897885d4663741f02605db2938e60c80adfa8d8abc9fe4dac4e104f102d22f",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión política directa sin elementos de humor o enfado extremo."
+      }
+    }
+  },
+  "Ugydz1xvhksn9HGzoIB4AaABAg": {
+    "HUELLA": "a5972f4c90b04ba74f6dd899521870ad8b1018eb8f9032c37f596a6d46d7b35f",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "ambiguo",
+        "JUSTIFICACION": "Texto fragmentado sin contexto suficiente para determinar el tono."
+      },
+      "IRONIA": {
+        "ETIQUETA": "indeterminada",
+        "JUSTIFICACION": "Falta de contexto impide determinar si es irónico o literal."
+      }
+    }
+  },
+  "UgwNxZ3kqNzF3lmdAeB4AaABAg": {
+    "HUELLA": "9bdc778b654ee5063548cd1e46f9773fb2db5663a12f178865e90444415ff79c",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Crítica política directa sin intención cómica ni hostilidad explosiva."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Afirmación directa sobre la contradicción del gobierno, sin contraste literal/implícito."
+      }
+    }
+  },
+  "UgzeU0D17L6H5yxI5iR4AaABAg": {
+    "HUELLA": "af00bd5def8ee58f06acdc806a12419d71d442601822fbebdf766762f0c6f105",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Cuestiona la democracia real al describir la legislación por decretos."
+      }
+    }
+  },
+  "Ugyd4dH0KvNXLp7Di3h4AaABAg": {
+    "HUELLA": "0fe3fd4c5276a3a057acd9f9aadaedd466cef0dc2dcfa814bb079f7294d2bed7",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "Usa frases como 'lindezas' y 'bicho que parece muerto' con sentido irónico y despectivo."
+      },
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "burla",
+        "JUSTIFICACION": "Los emojis de risa (😂) acompañan insultos y burlas hacia el sujeto mencionado."
+      }
+    }
+  },
+  "UgwnmacWFsIvD9MQ3wd4AaABAg": {
+    "HUELLA": "7f02e003754e936a71b778238eba43a970e1608fc3abc4cb031c070a5c35df80",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión política directa sin indicios de humor o enfado excesivo."
+      },
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "otro",
+        "JUSTIFICACION": "El emoji de guiño (😉) suaviza el tono o indica complicidad, no es burla ni humor explícito."
+      }
+    }
+  },
+  "Ugy2V22l7itF3xlZo_F4AaABAg": {
+    "HUELLA": "4bd726a1bf6a601d4077ccf7dd5b0325d4335674209a809acfd1b57d364e7393",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Plantea una pregunta lógica y crítica sobre la legalidad, manteniendo un tono analítico."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Es una pregunta retórica directa para señalar una contradicción, no una ironía lingüística."
+      }
+    }
+  },
+  "UgzL2mMBe4XsSbtyoKl4AaABAg": {
+    "HUELLA": "e04147a0f06a93127642c2fa3cc8d33fd616651743666ef06facb8b350ea1619",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa indignación moral y crítica seria sobre el uso de imágenes de un accidente."
+      }
+    }
+  },
+  "UgwkVLg41MHakw9pZPV4AaABAg": {
+    "HUELLA": "39b7a1e5c5989225b11ab9c0fba6c7544cbedd3eedfa26265a0becb2f574f64e",
+    "REVISIONES": {
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "otro",
+        "JUSTIFICACION": "El emoji de sorpresa (😮) enfatiza la gravedad o extrañeza de la afirmación, no burla."
+      }
+    }
+  },
+  "UgxND8C9PiJ76F13X9l4AaABAg": {
+    "HUELLA": "5fdc5d6ba426cc36e813a4625a703eee275fab7e3aa507a4e30e3752e1631223",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión crítica sin mostrar enfado explícito."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "El comentario es directo y literal, sin contraste entre significado literal e implícito."
+      }
+    }
+  },
+  "UgxGNDZXC0A1T4grqwZ4AaABAg": {
+    "HUELLA": "ac40690b52e3d04cd201eeb19917af4ec8474496f13323b29c213cadf8970d35",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Afirmación directa sin indicios de humor, ironía o enfado."
+      }
+    }
+  },
+  "UgwdGmMl6BggpP7Nf9V4AaABAg": {
+    "HUELLA": "61d875315ff67a0639b7dae5822c217af9f849d67babaef496d2de00429cd79b",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una decisión personal basada en una opinión política sin hostilidad."
+      }
+    }
+  },
+  "Ugyq1hubwXV14_n-tDJ4AaABAg": {
+    "HUELLA": "05f0cba69d996ddab7fe04f1a712ee679ada4ef3baf51372e4fcab64a915ca98",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "La sugerencia de enviar 'kirchneristas de regalo' es sarcástica y contradictoria con la buena voluntad."
+      }
+    }
+  },
+  "UgwA2jBnt2gzKO-OIqZ4AaABAg": {
+    "HUELLA": "7ebce3fb2d65ccba17d877ec8264c07c25759b216834bd81b5621a9fd9646a6a",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Solicitud de explicación lógica sin tono humorístico, irónico o enfadado."
+      }
+    }
+  },
+  "UgzqGJiAY2WhRS5Lrq94AaABAg": {
+    "HUELLA": "b2086dd245727b631e56fb6625f98e249ec216ab58c4f5b8232a9eb365092c5c",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa crítica política y opinión sin mostrar enfado explícito o hostilidad directa."
+      }
+    }
+  },
+  "UgwE_dGS-5ZbUI7Qx314AaABAg": {
+    "HUELLA": "587940050f2870895feea2ea34779efb066a6be1ee1ef38042eb3f3556e81942",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Uso de aplausos indica aprobación o apoyo, tono neutral o positivo sin ambigüedad."
+      }
+    }
+  },
+  "Ugw7FrFFlPozN4Fy7gJ4AaABAg": {
+    "HUELLA": "d06138808762c5cc882b89fc3c99497bee2a112c375afde22f49b2ee9978a9b2",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "ironico",
+        "JUSTIFICACION": "El texto sugiere que la victoria es inevitable o predecible, con tono sarcástico sobre la competencia."
+      },
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "La frase 'es el más listo de la clase' y el contexto sugieren ironía sobre la capacidad política."
+      },
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "otro",
+        "JUSTIFICACION": "Los emojis (voto, cerebro, sobre, beso) ilustran o enfatizan puntos específicos del texto, no son humor."
+      }
+    }
+  },
+  "UgyxrRG1EXaEgzhd1WV4AaABAg": {
+    "HUELLA": "74d2f99739d56809a3f25116cc9f44b0793381dacaa73fb533855a2e86f3fa2d",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una conclusión lógica y deserción electoral basada en premisas, sin enfado."
+      }
+    }
+  },
+  "UgwGvALkE20vI-lB3gl4AaABAg": {
+    "HUELLA": "e4f9afa3b068bc8202c3954abb4946ffa256d045bcf2c3c57946388f40f7cfb6",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Afirmación directa de una acusación ('Pucherazo'), tono de denuncia sin ironía evidente."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "El comentario parece una afirmación literal o sospecha directa, no un contraste irónico."
+      }
+    }
+  },
+  "UgyvIrX-nm_bdhPDDhR4AaABAg": {
+    "HUELLA": "dc87741d3c202d8b4d31f2026e2201c3015cc8dc62dd68e4f68ee61a8153bd94",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "indeterminada",
+        "JUSTIFICACION": "Falta contexto para determinar si es irónico o literal."
+      }
+    }
+  },
+  "Ugz8okqgYCc79AtubgB4AaABAg": {
+    "HUELLA": "05c704d946e7ff6b373cc83f281858e7bb9081b3d302da9450892b262cb5aa0b",
+    "REVISIONES": {
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "otro",
+        "JUSTIFICACION": "Los emojis expresan incredulidad y advertencia, no humor ni burla."
+      }
+    }
+  },
+  "UgzSiSJ0-twcRrOv7O54AaABAg": {
+    "HUELLA": "6b54ee1c81a290db9a45fbcf17c2c41c6039b8ae491285a85a66963dfe5e57de",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión política directa sin intención cómica ni hostilidad."
+      }
+    }
+  },
+  "UgxfRkOlkOdMiPnumW14AaABAg": {
+    "HUELLA": "7382e3a97bbc987aaf2c88bb132d35d789cccc93f4be975d477085cfb0d3b946",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Es una afirmación crítica directa sin indicios de humor o enfado excesivo."
+      }
+    }
+  },
+  "UgxfvwK2wfpS0jomI0x4AaABAg": {
+    "HUELLA": "094d16f0d0a652dd3b0a298fbe61269a51c7659833dc57ec1776614f6b61b8eb",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa aprobación clara y directa de la información compartida."
+      }
+    }
+  },
+  "UgwqT-BNeVoOl8Yp63J4AaABAg": {
+    "HUELLA": "e64da25c9bb9e850777729503a255004bfd70c9a3e96507a61d6e7cd55c3eef8",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Crítica directa y concisa sin indicios de humor o ira excesiva."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Afirmación literal de una opinión política sin contraste irónico evidente."
+      }
+    }
+  },
+  "UgxSJVf7WpuIpvLtdch4AaABAg": {
+    "HUELLA": "332608ba65cd1c6d61369334b70713b0d384c141ca06a192763377d799965140",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Solicitud directa de interacción en la plataforma sin carga emocional."
+      }
+    }
+  },
+  "Ugwbip_B-vUiIDrdtlR4AaABAg": {
+    "HUELLA": "e129b2216f1907ca93a79fd2659de7bb671cd81129d4481cac6c206d5a6f2d9b",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "enfadado",
+        "JUSTIFICACION": "Uso de terminología grave ('dictadores') que denota hostilidad y indignación."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Afirmación directa y literal de una acusación política sin doble sentido."
+      }
+    }
+  },
+  "UgxM830QPl6toCDWFCx4AaABAg": {
+    "HUELLA": "f5de29ef7b257064bebb7caa8a12319c1e4674431219143f319541b237758e75",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Etiqueta política concisa que expresa una postura crítica sin ambigüedad."
+      }
+    }
+  },
+  "UgzCaaDs_8NeMD0YLCt4AaABAg": {
+    "HUELLA": "4885f4d726aa024966258bc571c5006fa68b0c653e95259eb46595e4ed4d01df",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "enfadado",
+        "JUSTIFICACION": "Uso de mayúsculas y exclamación que denotan indignación y urgencia."
+      }
+    }
+  },
+  "UgyWhF2TuEGWYK05dKZ4AaABAg": {
+    "HUELLA": "06ef82abfb061f656d087db3f61e9e2661c3c5767c79e92e61e5e8ee802c26a2",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Emoticono de celebración sin texto; tono positivo pero ambiguo, se clasifica como serio por ser una expresión estándar de apoyo."
+      }
+    }
+  },
+  "UgyIUKR7QbYkdT3mhol4AaABAg": {
+    "HUELLA": "8581861b3c94c65ce791c815a8a4e14ecdbd2e10fb7b52f530f7637ccc74519d",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa gratitud de forma directa y educada, sin indicios de enfado, humor o ironía."
+      }
+    }
+  },
+  "Ugxx1RLhYki6_DC3xgF4AaABAg": {
+    "HUELLA": "1075303e6ea6bb1befc52eda215d9b41276c9c470a0efac780bed0f5c0ac214b",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión política clara y afirmativa sin hostilidad directa ni intención cómica evidente."
+      }
+    }
+  },
+  "Ugzft0AbCzO3xFqwd554AaABAg": {
+    "HUELLA": "54c1f67f2eae63e770d43f465b7d392505ba6eaed74555d817155046194a1d59",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "enfadado",
+        "JUSTIFICACION": "Utiliza lenguaje ofensivo y despectivo ('gilipolleces', 'pseudo15m'), mostrando hostilidad y crítica agresiva."
+      }
+    }
+  },
+  "Ugz_tu1yvYB9V-Svnjp4AaABAg": {
+    "HUELLA": "438ea91906f019a9f06eb43398cbf656e034956c559711f4d819a7b9a96253c2",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Observación directa sobre el inicio de una campaña, con tono informal pero sin enfado ni humor."
+      }
+    }
+  },
+  "Ugx-4WxDvK3tGDG-VX94AaABAg": {
+    "HUELLA": "24bb4505b7f4d074515b9df9f39e6792a71431d9f2bc697ebd8305059f37380a",
+    "REVISIONES": {
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "otro",
+        "JUSTIFICACION": "El emoji no indica claramente humor o burla; su función es ambigua en este contexto breve."
+      }
+    }
+  },
+  "UgwrwZFnQGzfpTYH5o14AaABAg": {
+    "HUELLA": "5ff6a9e87a4c952d5e8a6d2d366106f985a338e1169e624c7a2f5a4d8f3d76d9",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión crítica directa sin indicios de humor o ironía."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Es una afirmación directa de desprecio sin contraste literal-implícito evidente."
+      }
+    }
+  },
+  "Ugw02M8sfVYVEik4VZh4AaABAg": {
+    "HUELLA": "afc7462389f826481224774f91917719fabc94dbfe0b69775a85c91eef76ade9",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "indeterminada",
+        "JUSTIFICACION": "Falta contexto suficiente para determinar si es irónico o literal."
+      }
+    }
+  },
+  "UgwfwMyUvTHoP4rgGCZ4AaABAg": {
+    "HUELLA": "cd530cc605697851d129db740c43f2ce71195578f92b321a91a93fefd48fbe93",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Presenta una crítica legal y política con tono formal y argumentativo."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Es una crítica directa y literal, no hay contraste entre significado literal e implícito."
+      }
+    }
+  },
+  "UgzKcR8Mn6dhq8Wawbx4AaABAg": {
+    "HUELLA": "619c6e8c705ceeeae54475b2f126657d2fbb3295f0eae78917e8ad94e9f0898e",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión política crítica sin manifestar enfado explícito o hostilidad."
+      }
+    }
+  },
+  "UgzCZAJqDRaxXTYYR1l4AaABAg": {
+    "HUELLA": "83452efd2eb6436f391e747217232966a072026c4852e4b8b2aefb3942578263",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Pregunta crítica sobre la inacción política sin hostilidad explícita."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Interroga directamente sobre la acción del partido, sin contraste literal-implícito."
+      }
+    }
+  },
+  "UgwQ7k-esp71_ooX6rN4AaABAg": {
+    "HUELLA": "c02d31517cb19d2e8a2a5df6c547c350b9fff716302ecf4e37ac8b0cd905d906",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "ambiguo",
+        "JUSTIFICACION": "Referencia ambigua a un evento; no se determina si es pregunta seria o especulación."
+      },
+      "IRONIA": {
+        "ETIQUETA": "indeterminada",
+        "JUSTIFICACION": "Falta contexto para discernir si es pregunta retórica irónica o literal."
+      }
+    }
+  },
+  "Ugz7u9n_bNfhS_dWnU94AaABAg": {
+    "HUELLA": "50d9b2e55ac2388fbb702cd35f414dd7288ac3eb9b3d5cfc9689b161e6e97cb6",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa opinión crítica y descontento con lenguaje formal, sin enfado explosivo."
+      }
+    }
+  },
+  "Ugz8SOxrV8vQrgeW--R4AaABAg": {
+    "HUELLA": "000f3022616fab0f51314aa0735ea55f27bd6627b7a38c24a7ea49ca4570c345",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Usa una frase hecha para expresar limitación, no hay contraste irónico entre literal e implícito."
+      },
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "apoyo",
+        "JUSTIFICACION": "El emoji de tristeza refuerza el sentimiento de lástima o decepción por la situación."
+      }
+    }
+  },
+  "UgwrZYpcih4DuDehI_R4AaABAg": {
+    "HUELLA": "d9daeb71294e4112df6c6ecfd98835edd173f5132e38545ecc9457ed1b00975b",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "enfadado",
+        "JUSTIFICACION": "Expresa hostilidad clara y deseo de conflicto civil, indicando indignación."
+      }
+    }
+  },
+  "Ugx6_FG2StZutdMFeGR4AaABAg": {
+    "HUELLA": "a8c4e908f14554c8e8b1200682d7f77b279e96561adde9692c9f893643386c5f",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "enfadado",
+        "JUSTIFICACION": "Uso de mayúsculas y verbo agresivo 'DESTRUIR' indican hostilidad clara."
+      }
+    }
+  },
+  "Ugyd8JmKv1yoeQNoasZ4AaABAg": {
+    "HUELLA": "16245cbc5601587a202dad183ccbcbc9ea1efbcbfa87682ad6d5d8ea7245223c",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Plantea un análisis hipotético político sin manifestaciones emocionales evidentes."
+      }
+    }
+  },
+  "UgwJhXRJoOcgmKpX_VF4AaABAg": {
+    "HUELLA": "401c2199f8e947c1caecdb6c5cb523819fd25900ae5c1ebf77e83ab6e951603f",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Formula una duda lógica directa sin tono emocional marcado."
+      },
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Es una pregunta literal sobre legalidad, no hay contraste entre significado literal e implícito."
+      }
+    }
+  },
+  "UgwzUkyicdzgtVqnsEF4AaABAg": {
+    "HUELLA": "1696b656dc744ad280a72fcb2f4203136f011689cd11e3840bade6e3bc28a373",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "si",
+        "JUSTIFICACION": "El uso de 'team' y la frase final sugieren sarcasmo sobre la situación política."
+      }
+    }
+  },
+  "UgxxaIgDMoOD5Pzl2BJ4AaABAg": {
+    "HUELLA": "6a4e7dd84a357862402728d3e009fe7493592e3bfd59a21f86a08b5f994bb442",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "enfadado",
+        "JUSTIFICACION": "Comparación con dictadura y alusión a Franco denotan indignación y hostilidad política."
+      }
+    }
+  },
+  "UgxQYWDUQxi-wPPW1Jp4AaABAg": {
+    "HUELLA": "988e802c91d3078e5fb87b6e4988ffa9bfcabfde7935cae730346e7d9050681c",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa una opinión crítica sobre una situación sin mostrar enfado explícito."
+      }
+    }
+  },
+  "UgxgyN5NYQWpDOdd5VF4AaABAg": {
+    "HUELLA": "cb22de173282b3dc24f2b679ed644ab6266e6c5f1553ba624fdab0702ab29b2a",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Realiza una crítica política severa pero mantiene un tono descriptivo y reflexivo."
+      }
+    }
+  },
+  "UgynEIWFhgEjPgsf9Wh4AaABAg": {
+    "HUELLA": "8b6fbb1a3c93478d4b5864c5750f4a648e0f8b86d59e86c236c3de65307b4712",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "no",
+        "JUSTIFICACION": "Es una crítica directa y literal sobre la gestión política, sin contraste irónico."
+      }
+    }
+  },
+  "Ugxndce9jrJtamvOtel4AaABAg": {
+    "HUELLA": "629ebe9e005500af171488f71959d9f64bb55d2d777d3b08544e1b633904dd9d",
+    "REVISIONES": {
+      "IRONIA": {
+        "ETIQUETA": "indeterminada",
+        "JUSTIFICACION": "Falta contexto suficiente para determinar si el comentario es irónico o literal."
+      },
+      "FUNCION_EMOJIS": {
+        "ETIQUETA": "humor",
+        "JUSTIFICACION": "Los emojis de risa sugieren una intención cómica o de burla hacia la situación."
+      }
+    }
+  },
+  "UgzkkJO5SC_MFYPz-3h4AaABAg": {
+    "HUELLA": "b4920de1499ec24bc549af45b7d8a47bc7286ed294af4a45eb42a4ccf81452ff",
+    "REVISIONES": {
+      "TONO": {
+        "ETIQUETA": "serio",
+        "JUSTIFICACION": "Expresa gratitud de manera formal y directa sin elementos de humor o enfado."
+      }
+    }
+  }
+}

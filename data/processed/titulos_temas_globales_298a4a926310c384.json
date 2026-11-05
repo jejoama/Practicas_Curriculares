@@ -1,0 +1,34 @@
+{
+  "resultados": [
+    {
+      "tema": 1,
+      "titulo": "Fallos técnicos y seguridad ferroviaria",
+      "descripcion": "Discusión sobre los problemas en los sistemas de control y seguridad de los trenes."
+    },
+    {
+      "tema": 2,
+      "titulo": "Agradecimientos y apoyo a creadores",
+      "descripcion": "Mensajes de gratitud dirigidos hacia el contenido y las personas del canal."
+    },
+    {
+      "tema": 3,
+      "titulo": "Indignación contra la gestión gubernamental",
+      "descripcion": "Críticas severas y exigencias de responsabilidades penales dirigidas al gobierno."
+    },
+    {
+      "tema": 4,
+      "titulo": "Exigencias de dimisión a Óscar Puente",
+      "descripcion": "Reclamos directos pidiendo la renuncia y prisión para el ministro."
+    },
+    {
+      "tema": 5,
+      "titulo": "Críticas a la situación política nacional",
+      "descripcion": "Comentarios pesimistas sobre el estado actual del país y sus gobernantes."
+    },
+    {
+      "tema": 6,
+      "titulo": "Reconocimiento a la labor de Juan Ramón Rallo",
+      "descripcion": "Muestras de agradecimiento y elogios específicos hacia el analista económico."
+    }
+  ]
+}
